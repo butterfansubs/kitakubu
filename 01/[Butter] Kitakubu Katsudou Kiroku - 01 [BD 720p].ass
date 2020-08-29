@@ -17,654 +17,464 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,91,91,30,1
-Style: Kita_Main,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,91,91,30,0
-Style: Kita_Italics,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,-1,0,0,100,100,0,0,1,2.55,0,2,91,91,30,0
-Style: Kita_Flashback,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,91,91,30,0
-Style: Kita_Flashback_Italics,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,-1,0,0,100,100,0,0,1,2.55,0,2,91,91,30,0
-Style: Kita_Record(segment)_Number,Open Sans Semibold,50,&H00000501,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,20,312,210,0
-Style: Kita_Segment_Title,Open Sans Semibold,59,&H00000501,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,20,20,191,0
-Style: Kita_Ep_Preview,Open Sans Semibold,41,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,7,91,91,30,0
-Style: Wrestling_Club,Open Sans Semibold,41,&H008D7767,&H000000FF,&H00E7F3DE,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,0,7,41,20,200,0
-Style: Ride_Horses,Open Sans Semibold,41,&H007DB0E1,&H000000FF,&H007066AF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,302,20,20,0
-Style: Fire_Supervisor,Open Sans Semibold,27,&H00161C1D,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,684,20,221,0
-Style: Go-Home_Club,Open Sans Semibold,54,&H00131C1A,&H000000FF,&H00E1E8E7,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,20,162,311,0
-Style: 16th_heir,Open Sans Semibold,59,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,8,20,20,36,0
-Style: Daughter,Open Sans Semibold,54,&H003E8993,&H000000FF,&H0015525B,&H00105057,-1,0,0,0,100,100,0,0,1,1.5,3,5,20,20,20,0
-Style: RPG_Stats,Open Sans Semibold,32,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,0,7,906,60,60,0
-Style: Normal_Person,Open Sans Semibold,68,&H00161918,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,121,20,101,0
-Style: blush,Open Sans Semibold,63,&H007D54DA,&H000000FF,&H00473580,&H004A2D90,-1,0,0,0,100,100,0,0,1,0,3,9,20,242,281,0
-Style: Recruting_Go-Home,Open Sans Semibold,54,&H00404445,&H000000FF,&H00EFF7F4,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,4,41,20,36,0
-Style: Brush_Seal,Open Sans Semibold,63,&H00BD57DA,&H000000FF,&H00622780,&H004A2D90,0,0,0,0,100,100,0,0,1,3,0,9,20,162,221,0
-Style: Fire_Seal,Open Sans Semibold,45,&H003C4944,&H000000FF,&H00DADFE5,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,41,20,80,0
-Style: Disclaimer,Open Sans Semibold,54,&H00080C07,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,20,20,36,0
-Style: July28,Open Sans Semibold,90,&H00FEFEFE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,8,20,20,101,0
-Style: Boom,Open Sans Semibold,63,&H00433BB9,&H000000FF,&H00482545,&H002D1960,-1,0,0,0,100,100,0,0,1,3,3,8,20,20,36,0
-Style: Rate_Structure,Open Sans Semibold,54,&H004A4A4A,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,41,20,36,0
-Style: demon_King,Open Sans Semibold,32,&H00E6DDE1,&H000000FF,&H002A272C,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,8,20,684,36,0
-Style: store,Open Sans Semibold,59,&H0099BC63,&H000000FF,&H00798772,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,9,20,261,60,0
-Style: youhen,Open Sans Semibold,59,&H00112011,&H000000FF,&H00DAF3E1,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,8,20,20,36,0
-Style: Eyecatch1,Open Sans Semibold,45,&H00000000,&H000000FF,&H00F9FAF5,&H00000000,0,0,0,0,100,100,0,0,1,3,0,1,56,30,293,0
-Style: Eyecatch2,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00BAA331,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,217,20,20,0
-Style: Eyecatch3,Open Sans Semibold,32,&H00000000,&H000000FF,&H00F2F9FA,&H00000000,0,0,0,0,100,100,0,0,1,6,0,3,30,189,96,0
-Style: Eyecatch4,Open Sans Semibold,45,&H00000000,&H000000FF,&H00F7FCFC,&H00000000,0,0,0,0,100,100,0,0,1,3,0,9,30,30,24,0
-Style: phone,Open Sans Semibold,27,&H00000000,&H000000FF,&H00FCFCF3,&H00000000,0,0,0,0,100,100,0,0,1,3,0,9,30,382,180,0
-Style: erasers,Open Sans Semibold,57,&H00372017,&H000000FF,&H00D2C3BF,&H00AE846B,-1,0,0,0,100,100,0,0,1,1.5,3,8,30,30,30,0
-Style: conbini,Open Sans Semibold,57,&H003D4FEA,&H000000FF,&H00B4FEF9,&H00AE846B,-1,0,0,0,100,100,0,0,1,3,0,8,30,30,30,0
-Style: Sign,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,11,11,11,1
-Style: Romaji_OP,BIP,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,5,7,60,60,20,1
-Style: Romaji_OP[senobi shi chatte ii desuka],BIP,60,&H00E4F5FF,&H000000FF,&H00B1CCE1,&H00629CF4,0,0,0,0,100,100,0,0,1,1,5,7,60,60,20,1
-Style: Romaji_OP[fuck this],BIP,60,&H00FFFFFF,&H00023044,&H002189D2,&H0077B4E3,0,0,0,0,100,100,0,0,1,1,5,7,60,60,20,1
-Style: Translation_OP,BIP,60,&H00FFFFFF,&H00023044,&H002189D2,&H0077B4E3,0,0,0,0,100,100,0,0,1,1,5,3,60,60,20,1
-Style: Romaji_ED,Dadhand,50,&H00010303,&HFFFFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,60,60,20,1
-Style: TL_ED,Dadhand,50,&H00010303,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,11,11,11,1
-Style: TL_ED_chalk thing,Dadhand,50,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,10,0,2,11,11,11,1
-Style: Romaji_ED_chalk thing - Copy,Dadhand,50,&H00000000,&HFFFFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,10,0,8,11,11,20,1
-Style: Romaji_ED_can't fucking see,Dadhand,50,&H00010303,&HC3000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,60,60,20,1
-Style: Image,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,0
+Style: Default,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,91,91,30,0
+Style: Sign,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Mask,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: OP Title,Open Sans Semibold,45,&H00000000,&H000000FF,&H00F9FAF5,&H00000000,0,0,0,0,100,100,0,0,1,3,0,1,56,30,293,0
+Style: Segment Title,Open Sans Semibold,59,&H00000501,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,20,20,191,0
+Style: Eyecatch Title,Open Sans Semibold,45,&H00000000,&H000000FF,&H00F9FAF5,&H00000000,0,0,0,0,100,100,0,0,1,3,0,1,56,30,293,0
+Style: Record,Open Sans Semibold,50,&H00000501,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,20,312,210,0
+Style: Preview,Open Sans Semibold,41,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,7,91,91,30,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.90,0:00:09.15,Kita_Italics,nar,0,0,0,,Hooded seals live in the Arctic.
-Dialogue: 0,0:00:13.11,0:00:14.78,Kita_Italics,nar,0,0,0,,Did you all know
-Dialogue: 0,0:00:15.32,0:00:17.99,Kita_Italics,nar,0,0,0,,that the hooded seal's lactation period is about four days?
-Dialogue: 0,0:00:18.83,0:00:21.45,Kita_Italics,nar,0,0,0,,They say that's the shortest of any mammal.
-Dialogue: 0,0:00:21.91,0:00:23.12,Kita_Main,nar,0,0,0,,But setting that aside...
-Dialogue: 0,0:00:26.08,0:00:27.67,Kita_Italics,natsu,0,0,0,,Japan is currently in the height of spring.
-Dialogue: 0,0:00:28.25,0:00:31.42,Kita_Italics,natsu,0,0,0,,As a rain of pollen tickles my nasal membranes,
-Dialogue: 0,0:00:31.67,0:00:35.43,Kita_Italics,natsu,0,0,0,,I, Andou Natsuki, have officially become a high school student.
-Dialogue: 0,0:00:36.43,0:00:38.93,Wrestling_Club,sign,0,0,0,,Wrestling Club
-Dialogue: 0,0:00:36.84,0:00:38.93,Kita_Italics,natsu,0,0,0,,Today is club recruiting day.
-Dialogue: 0,0:00:38.93,0:00:42.27,Ride_Horses,sign,0,0,0,,{\fad(1,225)}Let's ride horses!
-Dialogue: 0,0:00:39.31,0:00:42.56,Kita_Italics,natsu,0,0,0,,High school is amazing! \NThere are so many different clubs!
-Dialogue: 0,0:00:54.40,0:00:57.70,Kita_Main,sakura,0,0,0,,H... H... Help me up...
-Dialogue: 0,0:00:57.70,0:01:01.99,Kita_Italics,natsu,0,0,0,,I guess spring also brings along \Nsome things I don't understand.
-Dialogue: 0,0:01:02.54,0:01:04.12,Kita_Main,aza,0,0,0,,Stray seal!
-Dialogue: 0,0:01:07.63,0:01:09.34,Kita_Main,natsu,0,0,0,,What was that all about?
-Dialogue: 0,0:01:09.79,0:01:11.34,Kita_Main,furu,0,0,0,,Hey, Nattsun!
-Dialogue: 0,0:01:13.51,0:01:16.13,Kita_Main,natsu,0,0,0,,Um... Who are you?
-Dialogue: 0,0:01:16.13,0:01:17.80,Kita_Main,furu,0,0,0,,I'm Furuhashi! Furuhashi!
-Dialogue: 0,0:01:17.80,0:01:19.05,Kita_Main,,0,0,0,,We went to middle school together!
-Dialogue: 0,0:01:19.05,0:01:20.43,Kita_Main,aza,0,0,0,,This happens a lot!
-Dialogue: 0,0:01:21.01,0:01:23.35,Kita_Main,furu,0,0,0,,Nattsun, your jokes are really too much.
-Dialogue: 0,0:01:23.35,0:01:26.35,Kita_Main,natsu,0,0,0,,I thought I told you to stop calling me\Nthat once we were in high school.
-Dialogue: 0,0:01:26.35,0:01:29.06,Kita_Main,furu,0,0,0,,Well? Have you picked your club yet, Nattsun?
-Dialogue: 0,0:01:29.98,0:01:31.61,Kita_Main,natsu,0,0,0,,Are you sticking with the Tennis Club?
-Dialogue: 0,0:01:33.36,0:01:36.53,Kita_Main,furu,0,0,0,,Hmm... But doing the same thing as in middle school
-Dialogue: 0,0:01:36.53,0:01:38.07,Kita_Main,,0,0,0,,wouldn't be very exciting.
-Dialogue: 0,0:01:39.45,0:01:42.28,Kita_Main,furu,0,0,0,,Maybe I should be bold and try the Hundred Poems Club!
-Dialogue: 0,0:01:42.28,0:01:43.12,Kita_Main,natsu,0,0,0,,Huh?
-Dialogue: 0,0:01:43.12,0:01:46.12,Kita_Main,furu,0,0,0,,Look! It's even the same arm motion.
-Dialogue: 0,0:01:43.12,0:01:46.75,Kita_Italics,aza,0,0,0,,{\an8}As friends and strangers come and go...
-Dialogue: 0,0:01:46.12,0:01:49.13,Kita_Main,natsu,0,0,0,,I don't know if it's wise to join a club based on that.
-Dialogue: 0,0:01:46.75,0:01:47.87,Kita_Italics,aza,0,0,0,,{\an8}Fault.
-Dialogue: 0,0:01:49.54,0:01:53.21,Kita_Main,natsu,0,0,0,,I don't like dealing with the hierarchies in clubs, anyway.
-Dialogue: 0,0:01:53.21,0:01:55.38,Kita_Main,natsu,0,0,0,,Maybe I should join the Going Home Club.
-Dialogue: 0,0:01:55.38,0:01:59.14,Kita_Main,karin,0,0,0,,Really? Andou-san, you're joining the Going Home Club, too?
-Dialogue: 0,0:01:59.89,0:02:02.64,Kita_Main,natsu,0,0,0,,Um... you're Touno-san, right?
-Dialogue: 0,0:02:02.64,0:02:05.22,Kita_Main,karin,0,0,0,,Yeah! I'm Touno Karin. It's nice to meet you!
-Dialogue: 0,0:02:05.81,0:02:07.35,Kita_Main,karin,0,0,0,,But I'm so glad.
-Dialogue: 0,0:02:07.35,0:02:10.06,Kita_Main,,0,0,0,,I thought I would be the only one joining the Going Home Club.
-Dialogue: 0,0:02:10.44,0:02:13.02,Kita_Main,natsu,0,0,0,,No, I really doubt that...
-Dialogue: 0,0:02:14.28,0:02:15.86,Kita_Main,natsu,0,0,0,,Furuhashi, you could join the Going Home Club—
-Dialogue: 0,0:02:15.86,0:02:19.24,Kita_Main,karin,0,0,0,,What?! No, I've got my Hundred Poems Club!
-Dialogue: 0,0:02:19.24,0:02:21.03,Kita_Main,natsu,0,0,0,,Wasn't that just some idea you had?
-Dialogue: 0,0:02:21.03,0:02:24.49,Kita_Main,furu,0,0,0,,Oh, right. I should go there and observe, or something.
-Dialogue: 0,0:02:24.49,0:02:25.49,Kita_Main,,0,0,0,,That's right, that's right...
-Dialogue: 0,0:02:26.29,0:02:27.50,Kita_Main,karin,0,0,0,,Observe?
-Dialogue: 0,0:02:28.79,0:02:30.58,Kita_Main,natsu,0,0,0,,Well, why don't we do the same?
-Dialogue: 0,0:02:31.21,0:02:33.84,Kita_Main,natsu,0,0,0,,Observe the Going Home Club! Yeah, right.
-Dialogue: 0,0:02:33.84,0:02:35.17,Kita_Main,karin,0,0,0,,Sure, let's go!
-Dialogue: 0,0:02:36.21,0:02:38.26,Kita_Main,natsu,0,0,0,,Huh? What?
-Dialogue: 0,0:02:39.09,0:02:42.51,Kita_Main,natsu,0,0,0,,No, the Going Home Club isn't...
-Dialogue: 0,0:02:43.10,0:02:44.01,Kita_Main,natsu,0,0,0,,a...
-Dialogue: 0,0:02:44.26,0:02:45.26,Kita_Main,natsu,0,0,0,,real...
-Dialogue: 0,0:02:45.26,0:02:46.97,Kita_Main,natsu,0,0,0,,club...
-Dialogue: 0,0:02:45.26,0:02:47.52,Fire_Supervisor,sign,0,0,0,,Fire Prevention Supervisor: \NNow Recruiting
-Dialogue: 0,0:02:45.26,0:02:47.52,Go-Home_Club,sign,0,0,0,,Going Home Club
-Dialogue: 0,0:02:50.31,0:02:52.02,Kita_Main,natsu,0,0,0,,It{\i1} is {\i0}real!
-Dialogue: 0,0:04:23.11,0:04:24.24,Kita_Main,natsu,0,0,0,,Wait a minute.
-Dialogue: 0,0:04:24.24,0:04:26.78,Kita_Main,natsu,0,0,0,,Why does the Going Home Club have its own club room?!
-Dialogue: 0,0:04:26.78,0:04:28.62,Kita_Main,natsu,0,0,0,,That's taking "anything goes" too far!
-Dialogue: 0,0:04:28.62,0:04:30.74,Kita_Main,karin,0,0,0,,It's amazing, isn't it?
-Dialogue: 0,0:04:32.04,0:04:33.16,Kita_Main,sakura,0,0,0,,Come in!
-Dialogue: 0,0:04:33.16,0:04:34.62,Kita_Main,natsu,0,0,0,,Have a little doubt here...
-Dialogue: 0,0:04:35.25,0:04:40.25,Kita_Record(segment)_Number,sign,0,0,0,,Record 1
-Dialogue: 0,0:04:35.25,0:04:40.25,Kita_Segment_Title,sign,0,0,0,,Going Home Club Applicants
-Dialogue: 0,0:04:40.75,0:04:42.01,Kita_Main,karin,0,0,0,,Excuse us!
-Dialogue: 0,0:04:42.67,0:04:44.01,Kita_Main,sakura,0,0,0,,Your membership is approved!
-Dialogue: 0,0:04:44.01,0:04:45.38,Kita_Main,natsu,0,0,0,,That was fast!
-Dialogue: 0,0:04:45.38,0:04:47.55,Kita_Main,botan,0,0,0,,But you're applying for membership, right?
-Dialogue: 0,0:04:47.55,0:04:48.47,Kita_Main,karin,0,0,0,,Yes!
-Dialogue: 0,0:04:48.80,0:04:50.31,Kita_Main,natsu,0,0,0,,I'm not really...
-Dialogue: 0,0:04:50.31,0:04:54.27,Kita_Main,claire,0,0,0,,I'm so happy. What might your names be?
-Dialogue: 0,0:04:54.81,0:04:56.65,Kita_Main,karin,0,0,0,,I'm Touno Karin!
-Dialogue: 0,0:04:56.65,0:04:58.52,Kita_Main,natsu,0,0,0,,I'm Andou Natsuki.
-Dialogue: 0,0:04:58.52,0:05:00.52,Kita_Main,sakura,0,0,0,,Karin-chan and Natsuki-chan, then!
-Dialogue: 0,0:05:01.28,0:05:05.20,Kita_Main,sakura,0,0,0,,Right! Let me introduce the crazy \Nmembers of the Going Home Club!
-Dialogue: 0,0:05:05.20,0:05:07.16,Kita_Main,natsu,0,0,0,,What?! The members are crazy?!
-Dialogue: 0,0:05:07.66,0:05:10.95,16th_heir,Sign,0,0,0,,{\fad(502,847)}Sixteenth heir to the ancient \NHagizuki-ryuu martial arts style
-Dialogue: 0,0:05:08.12,0:05:11.99,Kita_Main,sakura,0,0,0,,Sixteenth heir to the ancient \NHagizuki-ryuu martial arts style,
-Dialogue: 0,0:05:12.87,0:05:14.25,Kita_Main,,0,0,0,,Oohagi Botan-chan.
-Dialogue: 0,0:05:14.71,0:05:16.21,Kita_Main,botan,0,0,0,,Let's fight bears together!
-Dialogue: 0,0:05:16.21,0:05:18.33,Kita_Main,natsu,0,0,0,,What?! She's exceptional!
-Dialogue: 0,0:05:18.58,0:05:22.13,Daughter,sign,0,0,0,,{\fad(250,1225)}Daughter of the head of the Kokonoe Corporation
-Dialogue: 0,0:05:18.83,0:05:21.25,Kita_Main,sakura,0,0,0,,Daughter of the head of the Kokonoe Corporation,
-Dialogue: 0,0:05:22.67,0:05:24.13,Kita_Main,,0,0,0,,Kokonoe Claire-chan!
-Dialogue: 0,0:05:25.51,0:05:28.05,Kita_Main,claire,0,0,0,,If we get any more members, we'll have to hire a maid.
-Dialogue: 0,0:05:28.05,0:05:30.35,Kita_Main,natsu,0,0,0,,What?! She's exceptional, too!
-Dialogue: 0,0:05:30.35,0:05:32.93,Kita_Main,sakura,0,0,0,,And I am the Going Home Club's president,
-Dialogue: 0,0:05:32.93,0:05:36.31,Kita_Main,,0,0,0,,proud bearer of type A blood, \Nborn under the sign of Taurus...
-Dialogue: 0,0:05:38.27,0:05:39.65,Kita_Main,sakura,0,0,0,,Doumyouji Sakura!
-Dialogue: 0,0:05:39.65,0:05:43.53,RPG_Stats,sign,0,0,0,,{\fad(462,1)}Name:  Doumyouji Sakura \NBlood Type:                     A \NSign:                       Taurus \NHeight:                     163cm\NWeight:                    Secret
-Dialogue: 0,0:05:40.86,0:05:43.69,Kita_Main,sakura,0,0,0,,Heir to my grandmother's sewing scissors!
-Dialogue: 0,0:05:43.53,0:05:45.28,Normal_Person,sign,0,0,0,,Normal                                         Person
-Dialogue: 0,0:05:45.28,0:05:47.28,Kita_Main,natsu,0,0,0,,That means you're just an ordinary person!
-Dialogue: 0,0:05:49.24,0:05:50.78,Kita_Main,natsu,0,0,0,,L-Look.
-Dialogue: 0,0:05:50.78,0:05:53.66,Kita_Main,natsu,0,0,0,,I appreciate the introductions,
-Dialogue: 0,0:05:53.66,0:05:57.12,Kita_Main,,0,0,0,,but I'm not actually interested in joining your club...
-Dialogue: 0,0:05:58.21,0:05:59.38,Kita_Main,natsu,0,0,0,,So can I go home now?
-Dialogue: 0,0:06:00.13,0:06:01.25,Kita_Main,sakura,0,0,0,,You...
-Dialogue: 0,0:06:03.38,0:06:05.26,Kita_Main,sakura,0,0,0,,You're incredible!
-Dialogue: 0,0:06:05.59,0:06:08.26,Kita_Main,sakura,0,0,0,,You want to go home right away...
-Dialogue: 0,0:06:08.26,0:06:11.76,Kita_Main,sakura,0,0,0,,You have incredible Going Home Spirit within you!
-Dialogue: 0,0:06:12.01,0:06:12.72,Kita_Main,,0,0,0,,Huh?
-Dialogue: 0,0:06:13.76,0:06:14.72,Kita_Main,claire,0,0,0,,That's right!
-Dialogue: 0,0:06:14.72,0:06:17.39,Kita_Main,,0,0,0,,We must order dresses for the two of you right away!
-Dialogue: 0,0:06:17.39,0:06:18.52,Kita_Main,,0,0,0,,Huh? W-Wait!
-Dialogue: 0,0:06:19.52,0:06:21.77,Kita_Main,botan,0,0,0,,We've got some real Uber Loogies among us now.
-Dialogue: 0,0:06:21.77,0:06:23.65,Kita_Main,natsu,0,0,0,,If you're talking about an impressive newcomer,
-Dialogue: 0,0:06:23.65,0:06:25.28,Kita_Main,,0,0,0,,the term is "Super Rookie"!
-Dialogue: 0,0:06:26.69,0:06:29.03,Kita_Main,sakura,0,0,0,,We've got two spirited first-years joining us!
-Dialogue: 0,0:06:29.03,0:06:30.66,Kita_Main,,0,0,0,,This should be a lot of fun!
-Dialogue: 0,0:06:32.32,0:06:34.20,Kita_Main,sa/bo/cl,0,0,0,,Welcome to the Going Home Club!
-Dialogue: 0,0:06:40.37,0:06:41.79,Kita_Main,natsu,0,0,0,,It's too soon for the ending theme!
-Dialogue: 0,0:06:41.79,0:06:46.80,Kita_Record(segment)_Number,sign,0,0,0,,Record 2
-Dialogue: 0,0:06:41.79,0:06:46.80,Kita_Segment_Title,sign,0,0,0,,{\fs54\pos(636.981,529.5)}Life is Short; Go Home, Young Lady
-Dialogue: 0,0:06:48.55,0:06:51.68,Kita_Main,furu,0,0,0,,So you ended up joining the Going Home Club yesterday!
-Dialogue: 0,0:06:51.68,0:06:53.51,Kita_Main,natsu,0,0,0,,This is no laughing matter.
-Dialogue: 0,0:06:53.51,0:06:55.43,Kita_Main,furu,0,0,0,,But it's so funny, Nattsu—
-Dialogue: 0,0:06:55.43,0:06:57.93,Kita_Main,furu,0,0,0,,Uh, I mean, um, Natsukichi?
-Dialogue: 0,0:06:57.93,0:07:01.90,Kita_Main,natsu,0,0,0,,You don't have to invent a new nickname for me, Furukawa.
-Dialogue: 0,0:07:02.77,0:07:04.23,Kita_Main,furu,0,0,0,,It's Furuhashi.
-Dialogue: 0,0:07:04.57,0:07:08.65,Kita_Main,natsu,0,0,0,,Anyway, they told me to start coming officially, today.
-Dialogue: 0,0:07:08.65,0:07:10.82,Kita_Main,natsu,0,0,0,,What am I gonna do?
-Dialogue: 0,0:07:11.99,0:07:15.83,Kita_Main,furu,0,0,0,,Well, it looks like not going isn't an option.
-Dialogue: 0,0:07:23.33,0:07:24.54,Kita_Main,karin,0,0,0,,Hey, Andou-san.
-Dialogue: 0,0:07:25.59,0:07:28.59,Kita_Main,natsu,0,0,0,,You can call me Natsuki. And I'll call you Karin.
-Dialogue: 0,0:07:28.59,0:07:31.34,Kita_Main,karin,0,0,0,,Really? Then can I call you Nat-chan?
-Dialogue: 0,0:07:31.34,0:07:32.72,Kita_Main,natsu,0,0,0,,Sure, fine with me.
-Dialogue: 0,0:07:35.39,0:07:36.56,Kita_Main,natsu,0,0,0,,So, what is it?
-Dialogue: 0,0:07:36.56,0:07:37.56,Kita_Main,karin,0,0,0,,Nat-chan.
-Dialogue: 0,0:07:40.85,0:07:41.85,Kita_Main,karin,0,0,0,,Nat-chan...
-Dialogue: 0,0:07:44.40,0:07:45.61,Kita_Main,karin,0,0,0,,Nat-chan...
-Dialogue: 0,0:07:46.52,0:07:47.52,blush,sign,0,0,0,,Blush
-Dialogue: 0,0:07:47.73,0:07:49.36,Kita_Main,natsu,0,0,0,,Um...
-Dialogue: 0,0:07:49.90,0:07:51.07,Kita_Main,karin,0,0,0,,Oh, that's right.
-Dialogue: 0,0:07:51.07,0:07:54.32,Kita_Main,,0,0,0,,Nat-chan, what do you think they \Ndo in the Going Home Club?
-Dialogue: 0,0:07:55.78,0:07:57.16,Kita_Main,natsu,0,0,0,,You don't know?!
-Dialogue: 0,0:07:57.66,0:07:59.79,Kita_Main,natsu,0,0,0,,That's what I wanted to ask!
-Dialogue: 0,0:07:59.79,0:08:01.71,Kita_Main,,0,0,0,,And what made you want to join
-Dialogue: 0,0:08:01.71,0:08:03.42,Kita_Main,,0,0,0,,if you don't even know what they do?
-Dialogue: 0,0:08:03.42,0:08:07.17,Kita_Main,karin,0,0,0,,What? Well, it was during club recruiting day...
-Dialogue: 0,0:08:09.92,0:08:14.43,Recruting_Go-Home,sign,0,0,0,,Stand Up!\N{\c&H574A8E&}Going Home Club\N{\c&H33323A&}Now Recruiting!
-Dialogue: 0,0:08:09.96,0:08:12.59,Kita_Flashback,aza,0,0,0,,Stand! Stand up!
-Dialogue: 0,0:08:17.51,0:08:18.35,Kita_Italics,karin,0,0,0,,This is it!
-Dialogue: 0,0:08:18.35,0:08:19.47,Kita_Main,natsu,0,0,0,,{\i1}What{\i0} is it?!
-Dialogue: 0,0:08:19.47,0:08:22.18,Kita_Main,natsu,0,0,0,,What about that made you want to join their club?!
-Dialogue: 0,0:08:22.18,0:08:24.56,Kita_Main,natsu,0,0,0,,And they were recruiting people with that?!
-Dialogue: 0,0:08:25.06,0:08:27.69,Kita_Main,natsu,0,0,0,,I want to go home already.
-Dialogue: 0,0:08:27.69,0:08:29.61,Kita_Main,karin,0,0,0,,That's a Super Rookie for you!
-Dialogue: 0,0:08:29.61,0:08:30.82,Kita_Main,natsu,0,0,0,,Shut up already.
-Dialogue: 0,0:08:31.61,0:08:33.40,Kita_Main,karin,0,0,0,,It's okay, Nat-chan.
-Dialogue: 0,0:08:33.40,0:08:35.41,Kita_Main,,0,0,0,,If you ask our senpai in Japanese,
-Dialogue: 0,0:08:35.41,0:08:38.83,Kita_Main,,0,0,0,,I'm sure they'll tell you what the Going Home Club does.
-Dialogue: 0,0:08:38.83,0:08:42.41,Kita_Main,natsu,0,0,0,,Well, yes, that's probably true...
-Dialogue: 0,0:08:42.41,0:08:47.17,Kita_Main,natsu,0,0,0,,But it didn't occur to me that I had \Na language choice besides Japanese.
-Dialogue: 0,0:08:47.83,0:08:50.34,Brush_Seal,sign,0,0,0,,Also known \Nas brush seal
-Dialogue: 0,0:08:47.83,0:08:49.67,Kita_Main,aza,0,0,0,,Mohawk Seal!
-Dialogue: 0,0:08:50.34,0:08:52.59,Fire_Seal,sign,0,0,0,,Fire Prevention Supervisor: Seal\N\N{\b1\fs42}Going Home Club
-Dialogue: 0,0:08:51.92,0:08:52.84,Kita_Main,natsu,0,0,0,,Excuse me.
-Dialogue: 0,0:08:52.84,0:08:54.17,Kita_Main,sakura,0,0,0,,The first-years are here!
-Dialogue: 0,0:08:54.17,0:08:55.26,Kita_Main,claire,0,0,0,,Welcome!
-Dialogue: 0,0:08:55.26,0:08:57.89,Kita_Main,botan,0,0,0,,I've got controllers ready for you.
-Dialogue: 0,0:08:57.89,0:09:00.51,Kita_Main,sakura,0,0,0,,Oh, that's right. Chairs, chairs!
-Dialogue: 0,0:09:00.51,0:09:02.60,Kita_Main,natsu,0,0,0,,Um, Doumyouji-senpai...
-Dialogue: 0,0:09:02.60,0:09:05.85,Kita_Main,sakura,0,0,0,,Take no great pains. Prithee call me Sakura.
-Dialogue: 0,0:09:05.85,0:09:07.48,Kita_Main,natsu,0,0,0,,Okay, Sakura-senpai—
-Dialogue: 0,0:09:07.48,0:09:09.11,Kita_Main,sakura,0,0,0,,Aye, come nearer.
-Dialogue: 0,0:09:10.36,0:09:13.36,Kita_Main,natsu,0,0,0,,Sakura-senpai, why are you \Nusing such old-timey language?
-Dialogue: 0,0:09:13.36,0:09:16.07,Kita_Main,botan,0,0,0,,Probably because sixth period was classic literature.
-Dialogue: 0,0:09:16.07,0:09:17.61,Kita_Main,natsu,0,0,0,,She's so easily influenced!
-Dialogue: 0,0:09:17.61,0:09:20.45,Kita_Main,karin,0,0,0,,Nat-chan. You wanted to ask something else, remember?
-Dialogue: 0,0:09:20.45,0:09:21.70,Kita_Main,,0,0,0,,Oh, yeah.
-Dialogue: 0,0:09:22.49,0:09:23.62,Kita_Main,natsu,0,0,0,,Sakura-senpai.
-Dialogue: 0,0:09:24.79,0:09:27.42,Kita_Main,natsu,0,0,0,,What exactly does the Going Home Club do?
-Dialogue: 0,0:09:35.42,0:09:36.63,Kita_Main,sakura,0,0,0,,We have fun!
-Dialogue: 0,0:09:38.89,0:09:40.05,Kita_Main,natsu,0,0,0,,I told you, it's too soon!
-Dialogue: 0,0:09:40.05,0:09:41.93,Kita_Main,,0,0,0,,How desperate are you to end the show?!
-Dialogue: 0,0:09:42.97,0:09:47.27,Kita_Main,sakura,0,0,0,,{\pos(640,615)}If you do nothing, your youth will pass by in an instant.
-Dialogue: 0,0:09:46.27,0:09:53.90,Disclaimer,sign,0,0,0,,{\fad(462,0)\an5\pos(640,687)}*Based on the creator's personal experience.
-Dialogue: 0,0:09:47.27,0:09:49.27,Kita_Main,sakura,0,0,0,,{\pos(640,615)}That is why we formed the Going Home Club,
-Dialogue: 0,0:09:49.27,0:09:51.90,Kita_Main,,0,0,0,,{\pos(640,615)}to enjoy ourselves as much as possible
-Dialogue: 0,0:09:51.90,0:09:53.90,Kita_Main,,0,0,0,,{\pos(640,615)}after school and on the way home.
-Dialogue: 0,0:09:54.61,0:09:56.70,Kita_Main,claire,0,0,0,,Is that what it was?
-Dialogue: 0,0:09:56.70,0:09:58.74,Kita_Main,natsu,0,0,0,,Not even your own members knew?!
-Dialogue: 0,0:09:58.99,0:10:02.78,Kita_Main,sakura,0,0,0,,We want to do things that are fun, but that one shouldn't do.
-Dialogue: 0,0:10:02.78,0:10:04.24,Kita_Main,natsu,0,0,0,,Do things it's okay to do!
-Dialogue: 0,0:10:05.54,0:10:08.08,Kita_Main,sakura,0,0,0,,But today, we're going to do something it's okay to do.
-Dialogue: 0,0:10:08.08,0:10:09.75,Kita_Main,sakura,0,0,0,,Botan-chan! Claire-chan!
-Dialogue: 0,0:10:10.71,0:10:12.46,Kita_Main,natsu,0,0,0,,What are you going to do?
-Dialogue: 0,0:10:13.13,0:10:15.71,Kita_Main,claire,0,0,0,,We're going to the park to feed the pigeons.
-Dialogue: 0,0:10:16.26,0:10:17.76,Kita_Main,sakura,0,0,0,,Feeding the pigeons!
-Dialogue: 0,0:10:18.01,0:10:19.38,Kita_Main,botan,0,0,0,,Project Code...
-Dialogue: 0,0:10:19.97,0:10:20.76,Kita_Main,,0,0,0,,MANNA!
-Dialogue: 0,0:10:20.76,0:10:23.26,Kita_Main,natsu,0,0,0,,It doesn't need a title that cool!
-Dialogue: 0,0:10:29.39,0:10:33.27,Kita_Main,natsu,0,0,0,,Feeding the pigeons? What are they, little kids?
-Dialogue: 0,0:10:33.73,0:10:35.28,Kita_Main,botan,0,0,0,,There!
-Dialogue: 0,0:10:48.37,0:10:50.25,Kita_Main,sakura,0,0,0,,It's so fun!
-Dialogue: 0,0:10:53.04,0:10:54.75,Kita_Main,sakura,0,0,0,,Yeah! He took it!
-Dialogue: 0,0:10:55.21,0:10:59.13,Kita_Main,sakura,0,0,0,,Come on, little guy! It's tasty!
-Dialogue: 0,0:11:03.55,0:11:06.64,Kita_Main,natsu,0,0,0,,I guess... it might be kind of fun.
-Dialogue: 0,0:11:08.02,0:11:13.02,Eyecatch1,,0,0,0,,Chronicles of the Going Home Club
-Dialogue: 0,0:11:08.02,0:11:13.02,Eyecatch2,,0,0,0,,{\pos(875.472,28.5)}Going Home Club Photo Gallery
-Dialogue: 0,0:11:08.02,0:11:13.02,Eyecatch3,,0,0,0,,We took this photo of the \NGoing Home Club in action. \NWho provides whose voice?
-Dialogue: 0,0:11:13.02,0:11:18.03,Eyecatch4,,0,0,0,,Chronicles of the Going Home Club
-Dialogue: 0,0:11:42.43,0:11:44.47,Kita_Italics,natsu,0,0,0,,Just open it normally!
-Dialogue: 0,0:11:44.47,0:11:49.47,Kita_Record(segment)_Number,sign,0,0,0,,Record 3
-Dialogue: 0,0:11:44.47,0:11:49.47,Kita_Segment_Title,sign,0,0,0,,{\fs49.5}Beware of Hagizuki-ryuu Practitioners
-Dialogue: 0,0:11:49.98,0:11:55.69,Kita_Main,sakura,0,0,0,,So, that was Botan-chan's demonstration \Nof Hagizuki-ryuu martial arts!
-Dialogue: 0,0:11:58.86,0:12:00.69,Kita_Main,natsu,0,0,0,,I'm impressed that you can cut it
-Dialogue: 0,0:12:00.69,0:12:02.95,Kita_Main,,0,0,0,,so cleanly with just your bare hand.
-Dialogue: 0,0:12:02.95,0:12:05.95,Kita_Main,botan,0,0,0,,To be precise, I'm not cutting it with my hand.
-Dialogue: 0,0:12:06.45,0:12:07.95,Kita_Main,botan,0,0,0,,By moving my hand very quickly,
-Dialogue: 0,0:12:07.95,0:12:10.45,Kita_Main,,0,0,0,,I create a momentary vacuum in the air.
-Dialogue: 0,0:12:10.45,0:12:12.71,Kita_Main,,0,0,0,,That's what cuts it.
-Dialogue: 0,0:12:13.79,0:12:15.79,Kita_Main,botan,0,0,0,,It's the same principle as the kamaitachi.
-Dialogue: 0,0:12:15.79,0:12:17.71,Kita_Main,natsu,0,0,0,,There it is! A manga explanation!
-Dialogue: 0,0:12:17.71,0:12:20.96,Kita_Main,botan,0,0,0,,It's a closely guarded family secret, so don't tell anyone.
-Dialogue: 0,0:12:20.96,0:12:23.55,Kita_Main,natsu,0,0,0,,What?! You're taking a closely guarded secret pretty lightly!
-Dialogue: 0,0:12:25.05,0:12:28.26,Kita_Main,karin,0,0,0,,But Botan-senpai really is strong, isn't she?
-Dialogue: 0,0:12:28.26,0:12:30.93,Kita_Main,claire,0,0,0,,Yes. She's had many heroic exploits, as well.
-Dialogue: 0,0:12:31.81,0:12:34.85,Kita_Main,sakura,0,0,0,,Especially her "Bear Tour" last summer.
-Dialogue: 0,0:12:34.85,0:12:36.98,Kita_Main,sakura,0,0,0,,That was really scary!
-Dialogue: 0,0:12:38.06,0:12:41.49,Kita_Main,natsu,0,0,0,,What kind of ominous-sounding tour is that?
-Dialogue: 0,0:12:41.49,0:12:45.24,Kita_Main,sakura,0,0,0,,Botan-chan kept us up to date with very detailed emails...
-Dialogue: 0,0:12:45.24,0:12:47.95,July28,sign,0,0,0,,July 28th
-Dialogue: 0,0:12:45.95,0:12:47.95,Kita_Main,botan,0,0,0,,July 28th.
-Dialogue: 0,0:12:48.28,0:12:50.24,Kita_Main,botan,0,0,0,,I'm fighting a brown bear in Hokkaido.
-Dialogue: 0,0:12:50.24,0:12:51.45,Kita_Main,natsu,0,0,0,,I knew it!
-Dialogue: 0,0:12:51.45,0:12:53.96,Kita_Main,,0,0,0,,Why would you do something like that?!
-Dialogue: 0,0:12:53.96,0:12:56.04,Kita_Main,botan,0,0,0,,I heard that the brown bear was the strongest
-Dialogue: 0,0:12:56.04,0:12:57.38,Kita_Main,,0,0,0,,wild animal in Japan.
-Dialogue: 0,0:12:57.38,0:12:59.13,Kita_Main,,0,0,0,,So I didn't have a choice.
-Dialogue: 0,0:12:59.13,0:13:00.05,Kita_Main,natsu,0,0,0,,Yes, you did!
-Dialogue: 0,0:13:00.05,0:13:02.96,Kita_Main,,0,0,0,,And your reason doesn't have a shred \Nof high school girlishness in it!
-Dialogue: 0,0:13:07.30,0:13:09.10,Kita_Main,botan,0,0,0,,The match was decided swiftly.
-Dialogue: 0,0:13:09.55,0:13:10.93,Kita_Flashback,botan,0,0,0,,Was that all?
-Dialogue: 0,0:13:10.93,0:13:12.52,Kita_Main,botan,0,0,0,,I was left with only disappointment.
-Dialogue: 0,0:13:12.52,0:13:14.52,Kita_Main,natsu,0,0,0,,You beat it?!
-Dialogue: 0,0:13:14.52,0:13:15.94,Kita_Flashback,botan,0,0,0,,I beat the brown bear!
-Dialogue: 0,0:13:15.94,0:13:18.10,Kita_Flashback,,0,0,0,,But I'm bummed by how weak it was.
-Dialogue: 0,0:13:18.10,0:13:19.94,Kita_Flashback,,0,0,0,,Its punches looked like they weren't even moving.
-Dialogue: 0,0:13:19.94,0:13:20.77,Kita_Flashback,,0,0,0,,Teehee.
-Dialogue: 0,0:13:20.77,0:13:22.69,Kita_Main,natsu,0,0,0,,It's a little late to bring out the
-Dialogue: 0,0:13:22.69,0:13:24.99,Kita_Main,,0,0,0,,high school girl mannerisms in your emails!
-Dialogue: 0,0:13:24.99,0:13:26.40,Kita_Flashback,botan,0,0,0,,And, send!
-Dialogue: 0,0:13:26.86,0:13:30.49,Kita_Flashback,bear,0,0,0,,Don't get cocky... just because you beat me...
-Dialogue: 0,0:13:30.49,0:13:35.00,Kita_Flashback,bear,0,0,0,,In Alaska, there dwells a bear far more powerful than I...
-Dialogue: 0,0:13:35.46,0:13:38.25,Kita_Main,botan,0,0,0,,I felt as if the downed bear was speaking to me.
-Dialogue: 0,0:13:38.25,0:13:41.13,Kita_Main,natsu,0,0,0,,No! It absolutely was {\i1}not{\i0} speaking to you!
-Dialogue: 0,0:13:46.51,0:13:48.26,Kita_Flashback,grizzly,0,0,0,,So, the brown bear was defeated.
-Dialogue: 0,0:13:49.01,0:13:52.97,Kita_Flashback,polar,0,0,0,,But he was the weakest of us Four Bear Kings, so—
-Dialogue: 0,0:13:52.97,0:13:55.52,Kita_Main,natsu,0,0,0,,That didn't happen! I know it didn't!
-Dialogue: 0,0:13:56.35,0:13:58.85,Kita_Main,claire,0,0,0,,July 30th, Alaska.
-Dialogue: 0,0:13:58.85,0:14:01.40,Kita_Main,natsu,0,0,0,,You flew to America?!
-Dialogue: 0,0:14:02.27,0:14:04.28,Kita_Main,botan,0,0,0,,I found a grizzly in the forest.
-Dialogue: 0,0:14:06.82,0:14:09.32,Kita_Main,botan,0,0,0,,Truly, he was a full size larger than the brown bear.
-Dialogue: 0,0:14:12.99,0:14:21.00,phone,sign,0,0,0,,From: Oohagi Botan\NSubject: America Now
-Dialogue: 0,0:14:12.99,0:14:15.25,Kita_Main,botan,0,0,0,,"I'm in America right now!
-Dialogue: 0,0:14:15.25,0:14:18.71,Kita_Main,,0,0,0,,I'm shocked by how big American hamburgers are!
-Dialogue: 0,0:14:18.71,0:14:20.54,Kita_Main,,0,0,0,,I'm so stuffed!"
-Dialogue: 0,0:14:21.00,0:14:24.21,Kita_Main,natsu,0,0,0,,All you did was enjoy your first trip to America!
-Dialogue: 0,0:14:24.21,0:14:25.96,Kita_Main,claire,0,0,0,,"And then I beat the bear."
-Dialogue: 0,0:14:25.96,0:14:29.01,Kita_Main,natsu,0,0,0,,The bear doesn't even matter anymore, does it?!
-Dialogue: 0,0:14:29.51,0:14:32.22,Kita_Main,botan,0,0,0,,After defeating the grizzly, I realized...
-Dialogue: 0,0:14:32.22,0:14:35.81,Kita_Main,,0,0,0,,Now that I'd come this far, I had to take on a polar bear.
-Dialogue: 0,0:14:35.81,0:14:37.52,Kita_Main,natsu,0,0,0,,Why?!
-Dialogue: 0,0:14:38.44,0:14:41.98,Kita_Main,botan,0,0,0,,Bears get bigger and stronger the further north you go.
-Dialogue: 0,0:14:42.31,0:14:44.69,Kita_Main,botan,0,0,0,,And I'd started feeling like I was playing a fighting game.
-Dialogue: 0,0:14:45.15,0:14:47.15,Kita_Main,natsu,0,0,0,,She's got game brain...
-Dialogue: 0,0:14:48.24,0:14:52.78,Boom,sign,0,0,0,,BOOM
-Dialogue: 0,0:14:49.45,0:14:51.28,Kita_Main,botan,0,0,0,,July 31st.
-Dialogue: 0,0:14:51.70,0:14:53.91,Kita_Main,,0,0,0,,I beat the polar bear, as well.
-Dialogue: 0,0:14:53.91,0:14:55.79,Kita_Main,natsu,0,0,0,,You did it?!
-Dialogue: 0,0:14:55.79,0:14:57.66,Kita_Main,sakura,0,0,0,,She beat the strongest bear
-Dialogue: 0,0:14:57.66,0:14:59.92,Kita_Main,,0,0,0,,and we all assumed it was over.
-Dialogue: 0,0:14:59.92,0:15:02.67,Kita_Main,,0,0,0,,But there was still more to come.
-Dialogue: 0,0:15:02.67,0:15:04.75,Kita_Main,,0,0,0,,About a month later...
-Dialogue: 0,0:15:05.80,0:15:08.84,Kita_Main,botan,0,0,0,,I read my cell phone bill and fell to pieces.
-Dialogue: 0,0:15:09.34,0:15:12.05,Kita_Main,natsu,0,0,0,,It's because you used your cell phone so much overseas!
-Dialogue: 0,0:15:12.76,0:15:15.47,Kita_Main,botan,0,0,0,,It seems it wasn't bears I should have been fighting.
-Dialogue: 0,0:15:15.47,0:15:17.02,Kita_Main,,0,0,0,,It was the system!
-Dialogue: 0,0:15:18.35,0:15:20.44,Kita_Main,botan,0,0,0,,The system known as rate structure!
-Dialogue: 0,0:15:18.35,0:15:23.31,Rate_Structure,sign,0,0,0,,Rate structure
-Dialogue: 0,0:15:20.44,0:15:22.85,Kita_Main,natsu,0,0,0,,Just fix your rate plan and your lifestyle!
-Dialogue: 0,0:15:24.61,0:15:27.03,Kita_Main,claire,0,0,0,,There were lots of others besides the bears.
-Dialogue: 0,0:15:27.48,0:15:30.78,Kita_Main,claire,0,0,0,,She beat a great white shark in the ocean near Japan,
-Dialogue: 0,0:15:30.78,0:15:33.20,Kita_Main,,0,0,0,,beat an elephant in Africa,
-Dialogue: 0,0:15:33.20,0:15:36.41,Kita_Main,,0,0,0,,played with a squirrel at Tsurugaoka Hachiman Shrine,
-Dialogue: 0,0:15:36.41,0:15:38.37,Kita_Main,,0,0,0,,beat a cobra in India...
-Dialogue: 0,0:15:38.79,0:15:40.75,Kita_Main,natsu,0,0,0,,I think a Kamakura vacation memory got
-Dialogue: 0,0:15:40.75,0:15:42.46,Kita_Main,,0,0,0,,mixed up in there somewhere.
-Dialogue: 0,0:15:43.17,0:15:46.34,Kita_Main,sakura,0,0,0,,She also beat the Demon King with just the
-Dialogue: 0,0:15:43.92,0:15:48.05,demon_King,sign,0,0,0,,You beat the Demon King!
-Dialogue: 0,0:15:46.34,0:15:48.17,Kita_Main,,0,0,0,,Hero and no orbs of light!
-Dialogue: 0,0:15:48.17,0:15:51.63,Kita_Main,sakura,0,0,0,,And she beat the hardest final boss without taking any damage.
-Dialogue: 0,0:15:51.63,0:15:53.64,Kita_Main,sakura,0,0,0,,There's just no end to her heroic exploits.
-Dialogue: 0,0:15:53.64,0:15:56.72,Kita_Main,natsu,0,0,0,,Those last two were just challenge run stories!
-Dialogue: 0,0:15:56.72,0:15:58.77,Kita_Main,,0,0,0,,That's how you end up with game brain!
-Dialogue: 0,0:15:58.77,0:16:00.93,Kita_Main,sakura,0,0,0,,The point that I want to instill
-Dialogue: 0,0:16:00.93,0:16:03.27,Kita_Main,,0,0,0,,in you first-years as club president is that
-Dialogue: 0,0:16:03.27,0:16:07.57,Kita_Main,,0,0,0,,Botan can only do these things because she received special training.
-Dialogue: 0,0:16:07.57,0:16:10.28,Kita_Main,,0,0,0,,Ordinary people shouldn't try to mimic her!
-Dialogue: 0,0:16:10.28,0:16:11.44,Kita_Main,karin,0,0,0,,Okay.
-Dialogue: 0,0:16:11.44,0:16:14.41,Kita_Italics,natsu,0,0,0,,I've never heard a more unnecessary warning in my life.
-Dialogue: 0,0:16:14.41,0:16:15.45,Kita_Main,botan,0,0,0,,That's right!
-Dialogue: 0,0:16:15.45,0:16:17.66,Kita_Main,,0,0,0,,Now that we have new club members,
-Dialogue: 0,0:16:17.66,0:16:20.75,Kita_Main,,0,0,0,,why don't you come fight bears with me for real?
-Dialogue: 0,0:16:22.62,0:16:25.54,Kita_Main,sakura,0,0,0,,We're going to that new crepe stand today.
-Dialogue: 0,0:16:26.42,0:16:27.46,Kita_Main,ara,0,0,0,,Let it go.
-Dialogue: 0,0:16:30.80,0:16:35.34,Kita_Main,sakura,0,0,0,,Umm... I was sure it was in this area...
-Dialogue: 0,0:16:35.34,0:16:37.43,Kita_Main,natsu,0,0,0,,Oh, is that it there?
-Dialogue: 0,0:16:43.56,0:16:44.56,Kita_Main,botan,0,0,0,,A bear!
-Dialogue: 0,0:16:44.56,0:16:45.81,Kita_Main,sakura,0,0,0,,Stop it.
-Dialogue: 0,0:16:50.32,0:16:52.07,Kita_Main,sakura,0,0,0,,Sorry for the wait!
-Dialogue: 0,0:16:53.03,0:16:56.61,Kita_Main,karin,0,0,0,,Sakura-senpai, your crepe is so big!
-Dialogue: 0,0:16:56.61,0:16:58.37,Kita_Main,botan,0,0,0,,Can you really finish all that?
-Dialogue: 0,0:16:59.53,0:17:01.20,Kita_Main,sakura,0,0,0,,Eh? Where's Natsuki-chan?
-Dialogue: 0,0:17:01.20,0:17:03.87,Kita_Main,claire,0,0,0,,I believe she went to the powder room.
-Dialogue: 0,0:17:27.02,0:17:29.23,Kita_Main,botan,0,0,0,,What's wrong? That was a strange noise.
-Dialogue: 0,0:17:30.90,0:17:32.36,Kita_Main,karin,0,0,0,,The truth is...
-Dialogue: 0,0:17:32.36,0:17:36.61,store,sign,0,0,0,,School Store
-Dialogue: 0,0:17:32.65,0:17:36.15,Kita_Main,,0,0,0,,at lunch, I went to the school store with Nat-chan...
-Dialogue: 0,0:17:37.11,0:17:39.66,Kita_Main,karin,0,0,0,,But they were sold out of erasers.
-Dialogue: 0,0:17:40.12,0:17:43.24,Kita_Main,sakura,0,0,0,,The school store can sell out of erasers?
-Dialogue: 0,0:17:43.24,0:17:44.50,Kita_Main,karin,0,0,0,,Yes...
-Dialogue: 0,0:17:44.50,0:17:46.62,Kita_Main,natsu,0,0,0,,Well, they actually did have some.
-Dialogue: 0,0:17:46.62,0:17:47.92,Kita_Main,natsu,0,0,0,,A whole display of them.
-Dialogue: 0,0:17:46.62,0:17:48.63,erasers,natsu,0,0,0,,{\bord3.75}Nothing Comes Together As It Should
-Dialogue: 0,0:17:47.92,0:17:48.63,Kita_Main,sakura,0,0,0,,Huh?
-Dialogue: 0,0:17:48.63,0:17:53.13,Kita_Main,natsu,0,0,0,,But Karin didn't want one unless it was in a pink case.
-Dialogue: 0,0:17:54.51,0:17:57.38,Kita_Main,karin,0,0,0,,I couldn't erase at all during my afternoon classes.
-Dialogue: 0,0:17:57.38,0:17:59.05,Kita_Main,natsu,0,0,0,,Just compromise and buy one!
-Dialogue: 0,0:17:59.39,0:18:01.30,Kita_Main,claire,0,0,0,,That's tough.
-Dialogue: 0,0:18:02.56,0:18:06.10,Kita_Main,,0,0,0,,Let's go buy you a stationery store later.
-Dialogue: 0,0:18:08.35,0:18:09.85,Kita_Main,natsu,0,0,0,,Buy a store?!
-Dialogue: 0,0:18:09.85,0:18:14.86,Kita_Record(segment)_Number,sign,0,0,0,,Record 4
-Dialogue: 0,0:18:09.85,0:18:14.86,Kita_Segment_Title,sign,0,0,0,,Extravagant Youth: Priceless
-Dialogue: 0,0:18:15.11,0:18:16.78,Kita_Main,sakura,0,0,0,,Well, it can't be helped.
-Dialogue: 0,0:18:16.78,0:18:19.70,Kita_Main,,0,0,0,,Claire-chan is the daughter of the Kokonoe Corporation, after all.
-Dialogue: 0,0:18:19.70,0:18:23.24,Kita_Main,,0,0,0,,Her money sense is a little \Ndifferent from a normal person's.
-Dialogue: 0,0:18:23.24,0:18:25.20,Kita_Main,natsu,0,0,0,,That's more than "a little" different!
-Dialogue: 0,0:18:25.20,0:18:26.91,Kita_Main,natsu,0,0,0,,Buying a store at the drop of a hat
-Dialogue: 0,0:18:26.91,0:18:29.71,Kita_Main,,0,0,0,,is like "real-life sugoroku with actual \Ntrains" level of money sense!
-Dialogue: 0,0:18:29.71,0:18:31.08,Kita_Main,aza,0,0,0,,I just bought the whole store!
-Dialogue: 0,0:18:31.08,0:18:34.09,Kita_Main,sakura,0,0,0,,Claire-chan doesn't feel any sense of loss
-Dialogue: 0,0:18:34.09,0:18:35.55,Kita_Main,,0,0,0,,when she spends money.
-Dialogue: 0,0:18:36.46,0:18:37.92,Kita_Main,natsu,0,0,0,,What are you talking about?
-Dialogue: 0,0:18:38.76,0:18:42.30,Kita_Main,sakura,0,0,0,,You know how when we turn on the faucet,
-Dialogue: 0,0:18:42.30,0:18:44.10,Kita_Main,,0,0,0,,as much water comes out as we want?
-Dialogue: 0,0:18:44.10,0:18:45.31,Kita_Main,natsu,0,0,0,,Yeah...
-Dialogue: 0,0:18:45.60,0:18:48.06,Kita_Main,sakura,0,0,0,,That's how money is for her.
-Dialogue: 0,0:18:48.69,0:18:51.19,Kita_Main,natsu,0,0,0,,So she literally goes through money like water?
-Dialogue: 0,0:18:51.69,0:18:54.69,Kita_Main,sakura,0,0,0,,Her speech and behavior have always been extravagant.
-Dialogue: 0,0:18:55.57,0:18:58.44,Kita_Main,sakura,0,0,0,,She can summon a helicopter with the slightest gesture.
-Dialogue: 0,0:18:58.44,0:19:01.11,Kita_Main,sakura,0,0,0,,Or reserve an entire family restaurant.
-Dialogue: 0,0:19:05.95,0:19:08.50,Kita_Main,claire,0,0,0,,My. Is that so?
-Dialogue: 0,0:19:10.46,0:19:13.08,Kita_Main,natsu,0,0,0,,Why did you get so many frames just now?!
-Dialogue: 0,0:19:13.08,0:19:15.30,Kita_Main,claire,0,0,0,,What? I wasn't even thinking about it.
-Dialogue: 0,0:19:15.30,0:19:17.42,Kita_Main,natsu,0,0,0,,Try to avoid excessive movement!
-Dialogue: 0,0:19:17.42,0:19:20.18,Kita_Main,,0,0,0,,This show is limited to *** frames!
-Dialogue: 0,0:19:21.34,0:19:23.72,Kita_Main,sakura,0,0,0,,This is what you call a true rich girl.
-Dialogue: 0,0:19:23.72,0:19:25.35,Kita_Main,natsu,0,0,0,,President, you saw right through it!
-Dialogue: 0,0:19:26.22,0:19:28.27,Kita_Main,natsu,0,0,0,,What? Everything's gone white...
-Dialogue: 0,0:19:28.27,0:19:29.52,Kita_Main,botan,0,0,0,,I guess the effects are showing.
-Dialogue: 0,0:19:29.52,0:19:31.31,Kita_Main,aza,0,0,0,,The seal is white, too.
-Dialogue: 0,0:19:31.69,0:19:33.61,Kita_Main,sakura,0,0,0,,These are the storyboards!
-Dialogue: 0,0:19:33.98,0:19:35.90,Kita_Main,aza,0,0,0,,This is the linework!
-Dialogue: 0,0:19:37.82,0:19:41.57,Kita_Main,botan,0,0,0,,But Claire's really living life on easy mode, huh?
-Dialogue: 0,0:19:41.57,0:19:44.78,Kita_Main,botan,0,0,0,,You've always been able to get whatever you wanted, right?
-Dialogue: 0,0:19:46.16,0:19:49.58,Kita_Main,claire,0,0,0,,Actually, it's more that by the \Ntime I realize I want something,
-Dialogue: 0,0:19:49.58,0:19:51.79,Kita_Main,,0,0,0,,I already have it.
-Dialogue: 0,0:19:51.79,0:19:55.71,Kita_Main,natsu,0,0,0,,She's on full auto mode! This is just like a crap game!
-Dialogue: 0,0:19:56.59,0:19:58.00,Kita_Main,sakura,0,0,0,,Hey, Natsuki-chan!
-Dialogue: 0,0:19:58.00,0:20:00.34,Kita_Main,,0,0,0,,Be careful about making statements that could be construed
-Dialogue: 0,0:20:00.34,0:20:01.84,Kita_Main,,0,0,0,,as calling movie-heavy games crap!
-Dialogue: 0,0:20:01.84,0:20:03.93,Kita_Main,natsuki,0,0,0,,I didn't say anything like that!
-Dialogue: 0,0:20:03.93,0:20:06.10,Kita_Main,,0,0,0,,Why are you being so oversensitive?!
-Dialogue: 0,0:20:06.10,0:20:07.72,Kita_Main,aza,0,0,0,,Missile seal!
-Dialogue: 0,0:20:08.10,0:20:11.68,Kita_Main,sakura,0,0,0,,Setting that aside, you may be wondering why
-Dialogue: 0,0:20:11.68,0:20:14.44,Kita_Main,,0,0,0,,such a rich girl would attend a school for normal people.
-Dialogue: 0,0:20:14.69,0:20:17.40,Kita_Main,sakura,0,0,0,,It's because Claire-chan has always longed for
-Dialogue: 0,0:20:17.40,0:20:18.90,Kita_Main,,0,0,0,,a normal high school life.
-Dialogue: 0,0:20:19.40,0:20:21.95,Kita_Italics,natsu,0,0,0,,I don't know if that's possible in a club like this.
-Dialogue: 0,0:20:22.36,0:20:25.32,Kita_Main,claire,0,0,0,,It was my dream to walk home from school and attend
-Dialogue: 0,0:20:25.32,0:20:27.16,Kita_Main,,0,0,0,,balls with my friends like a normal person.
-Dialogue: 0,0:20:27.16,0:20:29.29,Kita_Main,natsu,0,0,0,,In what dimension is that normal?
-Dialogue: 0,0:20:29.29,0:20:31.75,Kita_Main,claire,0,0,0,,What? Was I wrong?
-Dialogue: 0,0:20:31.75,0:20:33.58,Kita_Main,sakura,0,0,0,,Well, that's the shape of it.
-Dialogue: 0,0:20:33.58,0:20:35.42,Kita_Main,,0,0,0,,Natsuki-chan, Karin-chan.
-Dialogue: 0,0:20:35.79,0:20:38.29,Kita_Main,sakura,0,0,0,,You're both senpai when it comes to being commoners,
-Dialogue: 0,0:20:38.29,0:20:39.80,Kita_Main,,0,0,0,,so show her the ropes.
-Dialogue: 0,0:20:39.80,0:20:41.67,Kita_Main,karin,0,0,0,,Okay! Just leave it to me!
-Dialogue: 0,0:20:42.01,0:20:44.34,Kita_Main,karin,0,0,0,,Claire-senpai, did you know about this?
-Dialogue: 0,0:20:44.34,0:20:46.59,Kita_Main,,0,0,0,,The most delicious part of the ice cream
-Dialogue: 0,0:20:46.59,0:20:48.26,Kita_Main,,0,0,0,,is not the ice cream itself,
-Dialogue: 0,0:20:48.26,0:20:50.22,Kita_Main,,0,0,0,,but the part that gets stuck to the lid!
-Dialogue: 0,0:20:50.52,0:20:52.14,Kita_Main,claire,0,0,0,,Oh, really?
-Dialogue: 0,0:20:52.14,0:20:54.60,Kita_Main,natsu,0,0,0,,That's not a "commoner" thought, it's a child's thought!
-Dialogue: 0,0:20:56.98,0:20:58.52,Kita_Main,claire,0,0,0,,Ice cream...
-Dialogue: 0,0:20:59.77,0:21:00.86,Kita_Main,,0,0,0,,comes with lids?
-Dialogue: 0,0:21:02.11,0:21:03.86,Kita_Main,sakura,0,0,0,,Okay! Today...
-Dialogue: 0,0:21:04.32,0:21:06.45,Kita_Main,sakura,0,0,0,,We will buy ice cream from the convenience store!
-Dialogue: 0,0:22:37.04,0:22:41.04,conbini,sign,0,0,0,,Convenience Store
-Dialogue: 0,0:22:37.54,0:22:40.17,Kita_Main,sign,0,0,0,,Ice cream in a cup really is the best.
-Dialogue: 0,0:22:40.17,0:22:41.88,Kita_Main,,0,0,0,,This is the way to go.
-Dialogue: 0,0:22:42.71,0:22:44.67,Kita_Main,natsu,0,0,0,,Buy ice cream in a cup!
-Dialogue: 0,0:22:45.05,0:22:48.51,Kita_Ep_Preview,,0,0,0,,{\fad(0,392)\pos(160,13.5)}Preview
-Dialogue: 0,0:22:46.21,0:22:47.59,Kita_Main,,0,0,0,,Natsuki here!
-Dialogue: 0,0:22:47.59,0:22:50.26,Kita_Main,,0,0,0,,I heard giant anteaters give birth standing up.
-Dialogue: 0,0:22:50.68,0:22:52.05,Kita_Main,,0,0,0,,Spawning standing up?!
-Dialogue: 0,0:22:52.26,0:22:57.23,Kita_Main,,0,0,0,,Next time, Record 5: The Cuckoo \NIsn't Singing. It Appears to Be Dead.
-Dialogue: 0,0:22:57.23,0:22:59.52,Kita_Main,,0,0,0,,And more!
-Dialogue: 0,0:02:57.40,0:02:59.95,Sign,,0,0,0,,{\an4\fscy125\blur0.9\fs48\fnGaramond\b1\c&HF8F8F3&\1a&HFF&\t(0,176,\1a&H0&)\pos(524,678)}Chron{\1a&HFF&\t(218,426,\1a&H0&)}icles {\1a&HFF&\t(384,551,\1a&H0&)}of {\1a&HFF&\t(551,718,\1a&H0&)}the {\1a&HFF&\t(718,885,\1a&H0&)}Going {\1a&HFF&\t(885,1052,\1a&H0&)}Home {\1a&HFF&\t(1260,1427,\1a&H0&)}Club
-Dialogue: 0,0:02:59.95,0:02:59.99,Sign,,0,0,0,,{\an4\fscy125\blur0.9\fs48\fnGaramond\b1\c&HF8F8F3&\pos(524,678)}Chronicles of the Going Home Club
-Dialogue: 0,0:02:59.99,0:03:00.36,Sign,,0,0,0,,{\an4\fscy125\blur0.9\fs48\fnGaramond\b1\c&HF8F8F3&\pos(524,678)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:00.36,0:03:00.40,Sign,,0,0,0,,{\an4\fscy125\blur0.9\fs48\fnGaramond\b1\c&HF8F8F3&\pos(524,678)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:00.40,0:03:00.45,Sign,,0,0,0,,{\an4\fscy125\blur0.9\fs48\fnGaramond\b1\c&HF8F8F3&\pos(524,678)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:00.45,0:03:00.49,Sign,,0,0,0,,{\an4\fscy125\blur0.9\fs48\fnGaramond\b1\c&HF8F8F3&\pos(524,678)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:00.49,0:03:01.20,Sign,,0,0,0,,{\an4\fscy125\blur0.9\fs48\fnGaramond\b1\c&HF8F8F3&\pos(524,678)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:01.20,0:03:01.24,Sign,,0,0,0,,{\an4\fscy125\blur0.9\fs48\fnGaramond\b1\c&HF8F8F3&\pos(524,678)\iclip(m 1076 704.125 l 1074 624 1067.875 624 1070 706)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:01.24,0:03:01.28,Sign,,0,0,0,,{\an4\fscy125\blur0.9\fs48\fnGaramond\b1\c&HF8F8F3&\pos(524,678)\\iclip(m 1082.125 704.125 l 1150 704.125 1152.125 621 1084 618 1073 601 1176 602.125 1176 712 1061 714 1057.875 605.125 1082.125 615 1047.875 616 973 616 860 614.125 847.875 616 850 709 841 707.125 839 605.125 1079 612 754 614.125 640 614.125 546 613 549 708 526 709 526 604 1080 621)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:01.28,0:03:01.32,Sign,,0,0,0,,{\an4\fscy125\blur0.9\fs48\fnGaramond\b1\c&HF8F8F3&\pos(524,678)\\clip(m 567.875 705 l 565.125 622 612.125 616 606 701.125 652.125 700 652.125 622 733 618 732.125 698.125 780 704.125 780 621 812.125 618 814 694 860 696 861 621 954 618 950 696 969 700)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:01.28,0:03:01.32,Sign,,0,0,0,,{\an4\fscy125\blur0.9\fs48\fnGaramond\b1\c&HF8F8F3&\pos(524,678)\\clip(m 967.875 625 l 966 710.125 1060 707.125 1057 619)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:01.28,0:03:01.32,Sign,,0,0,0,,{\an4\fscy125\blur0.9\fs48\fnGaramond\b1\c&HF8F8F3&\pos(524,678)\\clip(m 1104 618 l 1106 705 1127.875 700 1125.125 612)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:01.32,0:03:01.36,Sign,,0,0,0,,{\an4\fscy125\blur0.9\fs48\fnGaramond\b1\c&HF8F8F3&\pos(524,678)\\iclip(m 1134 709 l 1134 616 1097 614.125 1097.875 708 1067.875 709 1066 610 1064 631 1067 707.125 1049 705 1052.125 622 952.125 614.125 954 705 864 708 814 706 812.125 628 862.125 620.125 812.125 621 812.125 622 791 620.125 790 682 790 708 716 708 716 606 677.875 608.125 676 713.125 596 712 596 614.125 582.125 612 584 712 530 714 533 604 1173 606 1173 696)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:01.32,0:03:01.36,Sign,,0,0,0,,{\an4\fscy125\blur0.9\fs48\fnGaramond\b1\c&HF8F8F3&\pos(524,678)\clip(m 862.125 705 l 856 616 956 614.125 957.875 708)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:01.36,0:03:01.41,Sign,,0,0,0,,{\an4\fscy125\blur0.9\fs48\fnGaramond\b1\c&HF8F8F3&\pos(524,678)\clip(m 689 698.125 l 687.875 620.125 702.125 628 701 708)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:01.36,0:03:01.41,Sign,,0,0,0,,{\an4\fscy125\blur0.9\fs48\fnGaramond\b1\c&HF8F8F3&\pos(524,678)\clip(m 870 702 l 869 624 947 618 942.125 716.125)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:01.36,0:03:01.41,Sign,,0,0,0,,{\an4\fscy125\blur0.9\fs48\fnGaramond\b1\c&HF8F8F3&\pos(524,678)\clip(m 1000 703 l 999 622 1024 620.125 1020 702)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:01.41,0:03:01.45,Sign,,0,0,0,,{\an4\fscy125\blur0.9\fs48\fnGaramond\b1\c&HF8F8F3&\pos(524,678)\clip(m 1000 703 l 999 622 1024 620.125 1024 702)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:01.41,0:03:01.45,Sign,,0,0,0,,{\an4\fscy125\blur0.9\fs48\fnGaramond\b1\c&HF8F8F3&\pos(524,678)\clip(m 893 703 l 892.125 622 917 620.125 917 702)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:01.45,0:03:01.49,Sign,,0,0,0,,{\an4\fscy125\blur0.9\fs48\fnGaramond\b1\c&HF8F8F3&\pos(524,678)\clip(m 893 703 l 892.125 622 917 620.125 917 702)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:01.57,0:03:02.32,Sign,,0,0,0,,{\an4\fscy125\blur1.5\fs48\fnGaramond\b1\c&H383838&\pos(524,678)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:02.32,0:03:02.36,Sign,,0,0,0,,{\an4\fscy125\blur1.5\fs48\fnGaramond\b1\c&H383838&\pos(524,678)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:02.36,0:03:02.41,Sign,,0,0,0,,{\an4\fscy125\blur1.5\fs48\fnGaramond\b1\c&H383838&\pos(524,678)\clip(m 557 652 l 597 662.125 634 688 654 714 706 714 734 694 762.125 670 757.875 638.125 757.875 612 757 590.125 717 578.125 697.875 593.125 677.875 605.125 641 618 613 624 586 625)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:02.36,0:03:02.41,Sign,,0,0,0,,{\an4\fscy125\blur1.5\fs48\fnGaramond\b1\c&H383838&\pos(524,678)\\clip(m 826 713.125 l 854 710.125 884 708 910 696 944 678 964 665.125 989 644.125 1007.875 621 1022.125 601 1057.875 605.125 1041 629.125 1027.875 650.125 1014 673 1005.125 696 1000 714)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:02.41,0:03:02.45,Sign,,0,0,0,,{\an4\fscy125\blur1.5\fs48\fnGaramond\b1\c&H383838&\pos(524,678)\clip(m 921 717 l 940 696 952.125 676 965.125 650.125 974 624 1037.875 605.125 1034 634 1030 664 1030 694 1032.125 712)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:02.41,0:03:02.45,Sign,,0,0,0,,{\an4\fscy125\blur1.5\fs48\fnGaramond\b1\c&H383838&\pos(524,678)\clip(m 522.125 714 l 534 701.125 549 677.125 561 649 567.875 621 636 618 636 628 617 646 610 654 617 657 617.875 673 627.875 673 626 681 633 684 633 694 642.125 694 645.125 714)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:02.45,0:03:02.49,Sign,,0,0,0,,{\an4\fscy125\blur1.5\fs48\fnGaramond\b1\c&H383838&\pos(524,678)\clip(m 922.125 710.125 l 917.875 697 914 681 904 662.125 947.875 609 1057.875 605.125 1093 630 1073 656.125 1050 670 1032.125 682 1014 700 1004 712)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:02.49,0:03:02.53,Sign,,0,0,0,,{\an4\fscy125\blur1.5\fs48\fnGaramond\b1\c&H383838&\pos(524,678)\clip(m 820 705 l 825.125 692.125 825.125 676 830 654 830 642 849 642 866 642 890 640 909 626.125 937.875 612 970 621 961 654 956 682 954 710.125)}Chronicles of the Going Home Club
-Dialogue: 0,0:03:02.53,0:03:02.57,Sign,,0,0,0,,{\an4\fscy125\blur1.5\fs48\fnGaramond\b1\c&H383838&\pos(524,678)\clip(m 852.125 712 l 860 693 872.125 678 886 661 897.875 644.125 902.125 628 929 628 930 650.125 934 661 905.125 704.125 897 713.125)}Chronicles of the Going Home Club
-Dialogue: 0,0:02:58.69,0:02:58.74,Sign,,0,0,0,,{\3a&H99&\1a&HFF&\bord40\an5\blur2.1\fs48\fnGaramond\b1\c&HDAA84A&\p1\3c&HFCFEE3&\fscx133\fscy100\\pos(1106,676)}m 50 0 b 100 0 100 100 50 100 b 0 100 0 0 50 0{\p0}
-Dialogue: 0,0:02:58.69,0:02:58.74,Sign,,0,0,0,,{\3a&H99&\1a&HFF&\bord35\an5\blur2.1\fs48\fnGaramond\b1\c&HDAA84A&\p1\3c&HF8D587&\fscx133\fscy100\\pos(1106,676)}m 50 0 b 100 0 100 100 50 100 b 0 100 0 0 50 0{\p0}
-Dialogue: 0,0:02:58.69,0:02:58.74,Sign,,0,0,0,,{\1a&HFFF&\bord30\an5\blur2.1\fs48\fnGaramond\b1\c&HFCFEE3&\p1\3c&HFCFEE3&\fscx133\fscy100\pos(1106,676)}m 50 0 b 100 0 100 100 50 100 b 0 100 0 0 50 0{\p0}
-Dialogue: 0,0:02:58.74,0:02:58.78,Sign,,0,0,0,,{\3a&H99&\1a&HFF&\bord23\an5\blur2.1\fs48\fnGaramond\b1\c&HDAA84A&\p1\3c&HFCFEE3&\fscx266\fscy200\\pos(1106,676)}m 50 0 b 100 0 100 100 50 100 b 0 100 0 0 50 0{\p0}
-Dialogue: 0,0:02:58.74,0:02:58.78,Sign,,0,0,0,,{\1a&HFFF&\bord29\an5\blur2.1\fs48\fnGaramond\b1\c&HFCFEE3&\p1\3c&HFCFEE3&\fscx266\fscy200\pos(1106,676)}m 50 0 b 100 0 100 100 50 100 b 0 100 0 0 50 0{\p0}
-Dialogue: 0,0:02:58.74,0:02:58.78,Sign,,0,0,0,,{\3a&H99&\1a&HFF&\bord5\an5\blur2.1\fs48\fnGaramond\b1\c&HDAA84A&\p1\3c&HF8D587&\fscx266\fscy200\\pos(1106,676)}m 50 0 b 100 0 100 100 50 100 b 0 100 0 0 50 0{\p0}
-Dialogue: 0,0:02:58.78,0:02:58.82,Sign,,0,0,0,,{\3a&H19&\1a&HFF&\bord23\an5\blur2.1\fs48\fnGaramond\b1\c&HDAA84A&\p1\3c&HFCFEE3&\fscx353\fscy266\\pos(1106,676)}m 50 0 b 100 0 100 100 50 100 b 0 100 0 0 50 0{\p0}
-Dialogue: 0,0:02:58.78,0:02:58.82,Sign,,0,0,0,,{\1a&HFFF&\bord4\an5\blur2.1\fs48\fnGaramond\b1\c&HFCFEE3&\p1\3c&HFCFEE3&\fscx266\fscy200\pos(1106,676)}m 50 0 b 100 0 100 100 50 100 b 0 100 0 0 50 0{\p0}
-Dialogue: 0,0:02:58.82,0:02:58.86,Sign,,0,0,0,,{\3a&H00&\1a&HFF&\bord23\an5\blur2.1\fs48\fnGaramond\b1\c&HDAA84A&\p1\3c&HFCFCFA&\fscx400\fscy300\\pos(1106,676)}m 50 0 b 100 0 100 100 50 100 b 0 100 0 0 50 0{\p0}
-Dialogue: 0,0:02:58.82,0:02:58.86,Sign,,0,0,0,,{\1a&HFFF&\bord4\an5\blur2.1\fs48\fnGaramond\b1\c&HFCFEE3&\p1\3c&HFCFEE3&\fscx332\fscy250\pos(1106,676)}m 50 0 b 100 0 100 100 50 100 b 0 100 0 0 50 0{\p0}
-Dialogue: 0,0:02:58.86,0:02:58.90,Sign,,0,0,0,,{\3a&H00&\1a&HFF&\bord23\an5\blur2.1\fs48\fnGaramond\b1\c&HDAA84A&\p1\3c&HFCFCFA&\fscx500\fscy350\\pos(1106,676)}m 50 0 b 100 0 100 100 50 100 b 0 100 0 0 50 0{\p0}
-Dialogue: 0,0:02:58.86,0:02:58.90,Sign,,0,0,0,,{\1a&HFFF&\bord4\an5\blur2.1\fs48\fnGaramond\b1\c&HFCFEE3&\p1\3c&HFCFEE3&\fscx382\fscy300\pos(1106,676)}m 50 0 b 100 0 100 100 50 100 b 0 100 0 0 50 0{\p0}
-Dialogue: 0,0:03:02.66,0:03:05.70,Romaji_OP,,0,0,0,,{\blur1.5\4c&H5D73CE&\c&HF1F1FF&\1a&H00&\3c&H9A8CEB&}ichi gakki ni wa amanjitetano
-Dialogue: 0,0:03:05.70,0:03:08.12,Romaji_OP,,0,0,0,,{\blur1.5\4c&H14D963&\3c&H79FFA4&\c&HE8FFF1&}kurasu no pojishon nigun no ichi
-Dialogue: 0,0:03:08.12,0:03:11.08,Romaji_OP,,0,0,0,,{\blur1.5\4c&H4B8FF4&\3c&H66BFF7&\c&HF0F8FF&}hontou wa watashi yareba dekiru ko
-Dialogue: 0,0:03:11.08,0:03:13.79,Romaji_OP,,0,0,0,,{\blur1.5\4c&H4B8FF4&\3c&H66BFF7&\c&HF0F8FF&}sukoshi namaketa dakedamon
-Dialogue: 0,0:03:13.79,0:03:16.59,Romaji_OP,,0,0,0,,{\blur1.5\4c&H5D73CE&\c&HF1F1FF&\1a&H00&\3c&H9A8CEB&}sorya seiseki mo ooru san dashi
-Dialogue: 0,0:03:16.59,0:03:19.34,Romaji_OP,,0,0,0,,{\blur1.5\4c&HCAB166&\3c&HE3D7A1&\c&HFDFFF7&\t(2616,2616,\4c&HF66DA2&\3c&HFAA0C3&\c&HFFF4F6&)}gakuen dorama mitaina seishun mo
-Dialogue: 0,0:03:19.34,0:03:22.09,Romaji_OP,,0,0,0,,{\blur1.5\4c&HF66DA2&\3c&HFAA0C3&\c&HFFF4F6&}en mo nai futsuu no onnanoko dakedo
-Dialogue: 0,0:03:22.09,0:03:22.09,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(60,30)\1a&HFF\3a&HFF\4a&HFF}se
-Dialogue: 0,0:03:22.09,0:03:22.30,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(60,30)\t(0,115,\frz-0.03)\t(115,230,\frz0)}se
-Dialogue: 0,0:03:22.30,0:03:24.72,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(60,30)\fad(0,200)\t(0,100,\1a&H00&\3a&H00&\4a&H00\frz0.03)}se
-Dialogue: 0,0:03:22.09,0:03:22.30,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(107,30)\1a&HFF\3a&HFF\4a&HFF}no
-Dialogue: 0,0:03:22.30,0:03:22.47,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(107,30)\t(0,80,\frz-0.03)\t(80,160,\frz0)}no
-Dialogue: 0,0:03:22.47,0:03:24.72,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(107,30)\fad(0,200)\t(0,100,\1a&H00&\3a&H00&\4a&H00\frz0.03)}no
-Dialogue: 0,0:03:22.09,0:03:22.47,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(150,30)\1a&HFF\3a&HFF\4a&HFF}bi
-Dialogue: 0,0:03:22.47,0:03:22.59,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(150,30)\t(0,55,\frz-0.03)\t(55,110,\frz0)}bi
-Dialogue: 0,0:03:22.59,0:03:24.72,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(150,30)\fad(0,200)\t(0,100,\1a&H00&\3a&H00&\4a&H00\frz0.03)}bi
-Dialogue: 0,0:03:22.09,0:03:22.59,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(195,30)\1a&HFF\3a&HFF\4a&HFF}shi
-Dialogue: 0,0:03:22.59,0:03:22.80,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(195,30)\t(0,110,\frz-0.03)\t(110,220,\frz0)}shi
-Dialogue: 0,0:03:22.80,0:03:24.72,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(195,30)\fad(0,200)\t(0,100,\1a&H00&\3a&H00&\4a&H00\frz0.03)}shi
-Dialogue: 0,0:03:22.09,0:03:22.80,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(249,30)\1a&HFF\3a&HFF\4a&HFF}cha
-Dialogue: 0,0:03:22.80,0:03:23.14,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(249,30)\t(0,175,\frz-0.03)\t(175,350,\frz0)}cha
-Dialogue: 0,0:03:23.14,0:03:24.72,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(249,30)\fad(0,200)\t(0,100,\1a&H00&\3a&H00&\4a&H00\frz0.03)}cha
-Dialogue: 0,0:03:22.09,0:03:23.14,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(319,30)\1a&HFF\3a&HFF\4a&HFF}tte
-Dialogue: 0,0:03:23.14,0:03:23.34,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(319,30)\t(0,90,\frz-0.03)\t(90,180,\frz0)}tte
-Dialogue: 0,0:03:23.34,0:03:24.72,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(319,30)\fad(0,200)\t(0,100,\1a&H00&\3a&H00&\4a&H00\frz0.03)}tte
-Dialogue: 0,0:03:22.09,0:03:23.34,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(394,30)\1a&HFF\3a&HFF\4a&HFF}i
-Dialogue: 0,0:03:23.34,0:03:23.64,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(394,30)\t(0,155,\frz-0.03)\t(155,310,\frz0)}i
-Dialogue: 0,0:03:23.64,0:03:24.72,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(394,30)\fad(0,200)\t(0,100,\1a&H00&\3a&H00&\4a&H00\frz0.03)}i
-Dialogue: 0,0:03:22.09,0:03:23.64,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(403,30)\1a&HFF\3a&HFF\4a&HFF}i
-Dialogue: 0,0:03:23.64,0:03:23.84,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(403,30)\t(0,95,\frz-0.03)\t(95,190,\frz0)}i
-Dialogue: 0,0:03:23.84,0:03:24.72,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(403,30)\fad(0,200)\t(0,100,\1a&H00&\3a&H00&\4a&H00\frz0.03)}i
-Dialogue: 0,0:03:22.09,0:03:23.84,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(425,30)\1a&HFF\3a&HFF\4a&HFF}de
-Dialogue: 0,0:03:23.84,0:03:24.05,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(425,30)\t(0,100,\frz-0.03)\t(100,200,\frz0)}de
-Dialogue: 0,0:03:24.05,0:03:24.72,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(425,30)\fad(0,200)\t(0,100,\1a&H00&\3a&H00&\4a&H00\frz0.03)}de
-Dialogue: 0,0:03:22.09,0:03:24.05,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(474,30)\1a&HFF\3a&HFF\4a&HFF}su
-Dialogue: 0,0:03:24.05,0:03:24.18,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(474,30)\t(0,75,\frz-0.03)\t(75,150,\frz0)}su
-Dialogue: 0,0:03:24.18,0:03:24.72,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(474,30)\fad(0,200)\t(0,100,\1a&H00&\3a&H00&\4a&H00\frz0.03)}su
-Dialogue: 0,0:03:22.09,0:03:24.18,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(517,30)\1a&HFF\3a&HFF\4a&HFF}ka
-Dialogue: 0,0:03:24.18,0:03:24.68,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(517,30)\t(0,265,\frz-0.03)\t(265,530,\frz0)}ka
-Dialogue: 0,0:03:24.72,0:03:24.72,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\org(-14998,0)\pos(517,30)\fad(0,200)\t(0,100,\1a&H00&\3a&H00&\4a&H00\frz0.03)}ka
-Dialogue: 0,0:03:24.72,0:03:24.72,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(60,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF}mi
-Dialogue: 0,0:03:24.72,0:03:25.55,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(60,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF\t(0,100,\alpha&H00)}mi
-Dialogue: 0,0:03:25.55,0:03:32.81,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(60,20)\fad(0,200)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\t(0,500,\alpha&H00)}mi
-Dialogue: 0,0:03:24.72,0:03:25.55,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(100,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF}ra
-Dialogue: 0,0:03:25.55,0:03:26.22,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(100,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF\t(0,100,\alpha&H00)}ra
-Dialogue: 0,0:03:26.22,0:03:32.81,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(100,20)\fad(0,200)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\t(0,500,\alpha&H00)}ra
-Dialogue: 0,0:03:24.72,0:03:26.22,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(145,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF}i
-Dialogue: 0,0:03:26.22,0:03:26.89,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(145,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF\t(0,100,\alpha&H00)}i
-Dialogue: 0,0:03:26.89,0:03:32.81,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(145,20)\fad(0,200)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\t(0,500,\alpha&H00)}i
-Dialogue: 0,0:03:24.72,0:03:26.89,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(167,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF}no
-Dialogue: 0,0:03:26.89,0:03:27.60,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(167,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF\t(0,100,\alpha&H00)}no
-Dialogue: 0,0:03:27.60,0:03:32.81,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(167,20)\fad(0,200)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\t(0,500,\alpha&H00)}no
-Dialogue: 0,0:03:24.72,0:03:27.60,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(223,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF}wa
-Dialogue: 0,0:03:27.60,0:03:28.27,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(223,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF\t(0,100,\alpha&H00)}wa
-Dialogue: 0,0:03:28.27,0:03:32.81,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(223,20)\fad(0,200)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\t(0,500,\alpha&H00)}wa
-Dialogue: 0,0:03:24.72,0:03:28.27,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(276,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF}ta
-Dialogue: 0,0:03:28.27,0:03:28.97,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(276,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF\t(0,100,\alpha&H00)}ta
-Dialogue: 0,0:03:28.97,0:03:32.81,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(276,20)\fad(0,200)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\t(0,500,\alpha&H00)}ta
-Dialogue: 0,0:03:24.72,0:03:28.97,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(319,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF}shi
-Dialogue: 0,0:03:28.97,0:03:29.64,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(319,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF\t(0,100,\alpha&H00)}shi
-Dialogue: 0,0:03:29.64,0:03:32.81,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(319,20)\fad(0,200)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\t(0,500,\alpha&H00)}shi
-Dialogue: 0,0:03:24.72,0:03:29.64,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(385,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF}ga
-Dialogue: 0,0:03:29.64,0:03:30.35,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(385,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF\t(0,100,\alpha&H00)}ga
-Dialogue: 0,0:03:30.35,0:03:32.81,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(385,20)\fad(0,200)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\t(0,500,\alpha&H00)}ga
-Dialogue: 0,0:03:24.72,0:03:30.35,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(446,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF}sa
-Dialogue: 0,0:03:30.35,0:03:30.98,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(446,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF\t(0,100,\alpha&H00)}sa
-Dialogue: 0,0:03:30.98,0:03:32.81,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(446,20)\fad(0,200)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\t(0,500,\alpha&H00)}sa
-Dialogue: 0,0:03:24.72,0:03:30.98,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(492,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF}sa
-Dialogue: 0,0:03:30.98,0:03:31.73,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(492,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF\t(0,100,\alpha&H00)}sa
-Dialogue: 0,0:03:31.73,0:03:32.81,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(492,20)\fad(0,200)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\t(0,500,\alpha&H00)}sa
-Dialogue: 0,0:03:24.72,0:03:31.73,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(537,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF}ya
-Dialogue: 0,0:03:31.73,0:03:32.39,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(537,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF\t(0,100,\alpha&H00)}ya
-Dialogue: 0,0:03:32.39,0:03:32.81,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(537,20)\fad(0,200)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\t(0,500,\alpha&H00)}ya
-Dialogue: 0,0:03:24.72,0:03:32.39,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(586,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF}ku
-Dialogue: 0,0:03:32.39,0:03:32.81,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(586,20)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\alpha&HFF\t(0,100,\alpha&H00)}ku
-Dialogue: 0,0:03:32.81,0:03:32.81,Romaji_OP[senobi shi chatte ii desuka],,0,0,0,fx,{\blur1.5\pos(586,20)\fad(0,200)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&\t(0,500,\alpha&H00)}ku
-Dialogue: 0,0:03:32.81,0:03:35.69,Romaji_OP,,0,0,0,,{\blur1.5\4c&HFF9300&\3c&H3C2B00&}kawarun nara kono natsu
-Dialogue: 0,0:03:35.69,0:03:41.20,Romaji_OP,,0,0,0,,{\blur1.5\4c&H609359&\3c&H000000&}shuugyoushiki no sono kaerimichi
-Dialogue: 0,0:03:41.20,0:03:42.57,Romaji_OP,,0,0,0,,{\blur1.5\4c&H4F8043&\3c&H042D00&\c&HF0FCF0&}konbini he dasshu shite
-Dialogue: 0,0:03:42.57,0:03:43.99,Romaji_OP,,0,0,0,,{\blur1.5\4c&H95AAC1&\3c&H003448&\c&HF4FBFE&}te ni totta fasshon shi
-Dialogue: 0,0:03:43.99,0:03:46.70,Romaji_OP,,0,0,0,,{\blur1.5\4c&H717EA0&\3c&H172550&\c&HFAFBFF&}kore sae areba watashi no jinsei mo
-Dialogue: 0,0:03:46.70,0:03:48.08,Romaji_OP,,0,0,0,,{\blur1.5\4c&H717EA0&\3c&H172550&\c&HFAFBFF&}kawaru hazu
-Dialogue: 0,0:03:48.08,0:03:50.83,Romaji_OP[fuck this],,0,0,0,,{\blur1.5}ni gakki debyuu imechen debyuu
-Dialogue: 0,0:03:50.83,0:03:54.21,Romaji_OP[fuck this],,0,0,0,,{\blur1.5}yaku hitotsuki no gekiteki bifoo afutaa
-Dialogue: 0,0:03:54.21,0:03:58.92,Romaji_OP[fuck this],,0,0,0,,{\blur1.5}datte ahiru no ko mo hakuchou ni naretan dakara
-Dialogue: 0,0:03:58.92,0:04:01.84,Romaji_OP[fuck this],,0,0,0,,{\blur1.5}riajuu sengen itta mon gachi
-Dialogue: 0,0:04:01.84,0:04:05.26,Romaji_OP[fuck this],,0,0,0,,{\blur1.5}shingakki ni wa iketeru joshi ni natte
-Dialogue: 0,0:04:05.26,0:04:11.43,Romaji_OP[fuck this],,0,0,0,,{\blur1.5}zettai wakuwaku suru seishun ouka shite yarundamon
-Dialogue: 0,0:04:11.43,0:04:13.81,Romaji_OP[fuck this],,0,0,0,,{\blur1.5}ni gakki debyuu
-Dialogue: 0,0:04:14.23,0:04:16.73,Romaji_OP[fuck this],,0,0,0,,{\blur1.5}imechen debyuu
-Dialogue: 0,0:03:02.66,0:03:05.70,Translation_OP,,0,0,0,,{\blur1.5\4c&H5D73CE&\c&HF1F1FF&\1a&H00&\3c&H9A8CEB&}First semester was good enough for me.
-Dialogue: 0,0:03:05.70,0:03:08.12,Translation_OP,,0,0,0,,{\blur1.5\4c&H14D963&\3c&H79FFA4&\c&HE8FFF1&}I was at the class {average}mean.{less confusing; "average" can be an adjective too, and it confused me when I first read the line}
-Dialogue: 0,0:03:08.12,0:03:11.08,Translation_OP,,0,0,0,,{\blur1.5\4c&H4B8FF4&\3c&H66BFF7&\c&HF0F8FF&}I can really do anything if I try.
-Dialogue: 0,0:03:11.08,0:03:13.79,Translation_OP,,0,0,0,,{\blur1.5\4c&H4B8FF4&\3c&H66BFF7&\c&HF0F8FF&}I just slacked off a little.
-Dialogue: 0,0:03:13.79,0:03:16.59,Translation_OP,,0,0,0,,{\blur1.5\4c&H5D73CE&\c&HF1F1FF&\1a&H00&\3c&H9A8CEB&}My grades were straight-B's
-Dialogue: 0,0:03:16.59,0:03:19.34,Translation_OP,,0,0,0,,{\blur1.5\4c&HCAB166&\3c&HE3D7A1&\c&HFDFFF7&\t(2616,2616,\4c&HF66DA2&\3c&HFAA0C3&\c&HFFF4F6&)}and my life's straight out of a school drama.
-Dialogue: 0,0:03:19.34,0:03:22.09,Translation_OP,,0,0,0,,{\blur1.5\4c&HF66DA2&\3c&HFAA0C3&\c&HFFF4F6&}Even if I'm an average girl with no relationships,
-Dialogue: 0,0:03:22.09,0:03:24.68,Translation_OP,,0,0,0,,{\blur1.5\4c&H629CF4&\3c&HB1CCE1&\c&HE4F5FF&\2c&HFFFFFF&}can I still try my best?
-Dialogue: 0,0:03:24.72,0:03:32.81,Translation_OP,,0,0,0,,{\blur1.5\fad(200,200)\4c&H2B0005&\3c&H5B425F&\c&HFFEFF4&}The future me whispers,
-Dialogue: 0,0:03:32.81,0:03:35.69,Translation_OP,,0,0,0,,{\blur1.5\4c&HFF9300&\3c&H3C2B00&}"Summer's the time for change."
-Dialogue: 0,0:03:35.69,0:03:41.20,Translation_OP,,0,0,0,,{\blur1.5\4c&H609359&\3c&H000000&}On the way home, after the closing ceremony,
-Dialogue: 0,0:03:41.20,0:03:42.57,Translation_OP,,0,0,0,,{\blur1.5\4c&H4F8043&\3c&H042D00&\c&HF0FCF0&}I dashed to a convenience store
-Dialogue: 0,0:03:42.57,0:03:43.99,Translation_OP,,0,0,0,,{\blur1.5\4c&H95AAC1&\3c&H003448&\c&HF4FBFE&}and grabbed a fashion magazine.
-Dialogue: 0,0:03:43.99,0:03:46.70,Translation_OP,,0,0,0,,{\blur1.5\4c&H717EA0&\3c&H172550&\c&HFAFBFF&}As long as I have this my life should
-Dialogue: 0,0:03:46.70,0:03:48.08,Translation_OP,,0,0,0,,{\blur1.5\4c&H717EA0&\3c&H172550&\c&HFAFBFF&}change somehow.
-Dialogue: 0,0:03:48.08,0:03:50.83,Translation_OP,,0,0,0,,{\blur1.5}I start second semester with a whole new look.
-Dialogue: 0,0:03:50.83,0:03:54.21,Translation_OP,,0,0,0,,{\blur1.5}A dramatic change over about a month.
-Dialogue: 0,0:03:54.21,0:03:58.92,Translation_OP,,0,0,0,,{\blur1.5}Even the ugly duckling could become a swan, after all.
-Dialogue: 0,0:03:58.92,0:04:01.84,Translation_OP,,0,0,0,,{\blur1.5}I'll be a winner once I can say I'm living the life.
-Dialogue: 0,0:04:01.84,0:04:05.26,Translation_OP,,0,0,0,,{\blur1.5}I'll become a popular girl next semester
-Dialogue: 0,0:04:05.26,0:04:11.43,Translation_OP,,0,0,0,,{\blur1.5}and celebrate an exciting youth, no matter what.
-Dialogue: 0,0:04:11.43,0:04:13.81,Translation_OP,,0,0,0,,{\blur1.5}I start second semester
-Dialogue: 0,0:04:14.23,0:04:16.73,Translation_OP,,0,0,0,,{\blur1.5}with a whole new look.
-Dialogue: 1,0:21:16.37,0:21:20.63,Romaji_ED,,0,0,0,,{\fad(200,200)\k13}{\k26}i{\k23}ma {\k20}shi{\k28}ka {\k49}de{\k28}ki{\k32}na{\k26}i {\k30}ko{\k32}to {\k7}ga {\k35}shi{\k48}ta{\k30}i
-Dialogue: 0,0:21:16.37,0:21:20.63,Romaji_ED_chalk thing - Copy,,0,0,0,,{\fad(200,200)\c&HB2AAED&\3c&HAAFFC6&\blur4.5\an8}{\k13}{\k26}i{\k23}ma {\k20}shi{\k28}ka {\k49}de{\k28}ki{\k32}na{\k26}i {\k30}ko{\k32}to {\k7}ga {\k35}shi{\k48}ta{\k30}i
-Dialogue: 1,0:21:21.09,0:21:25.84,Romaji_ED,,0,0,0,,{\fad(200,200)\k14}{\k29}ta{\k24}no{\k20}shi{\k27}ma {\k47}na{\k25}ku{\k62}cha {\k30}na{\k13}ni {\k30}so{\k46}re {\k31}i{\k28}i {\k50}ne
-Dialogue: 0,0:21:21.09,0:21:25.84,Romaji_ED_chalk thing - Copy,,0,0,0,,{\fad(200,200)\c&HB2AAED&\3c&HFCE1B2&\blur4.5\an8}{\k14}{\k29}ta{\k24}no{\k20}shi{\k27}ma {\k47}na{\k25}ku{\k62}cha {\k30}na{\k13}ni {\k30}so{\k46}re {\k31}i{\k28}i {\k50}ne
-Dialogue: 1,0:21:25.84,0:21:30.56,Romaji_ED,,0,0,0,,{\fad(200,200)\k24}ha{\k13}ji{\k31}ma{\k17}tte{\k26}ru {\k32}ha{\k14}ji{\k27}ma{\k18}tte{\k43}ru {\k31}wa{\k14}ku {\k45}wa{\k25}ku {\k33}da{\k28}y{\k49}s
-Dialogue: 0,0:21:25.84,0:21:30.56,Romaji_ED_chalk thing - Copy,,0,0,0,,{\fad(200,200)\c&HB2AAED&\3c&HF2A8C4&\blur4.5\an8}{\k24}ha{\k13}ji{\k31}ma{\k17}tte{\k26}ru {\k32}ha{\k14}ji{\k27}ma{\k18}tte{\k43}ru {\k31}wa{\k14}ku {\k45}wa{\k25}ku {\k33}da{\k28}y{\k49}s
-Dialogue: 0,0:21:30.56,0:21:35.27,Romaji_ED,,0,0,0,,{\fad(200,200)\bord3\blur4.5\3c&HFFFFFF&}{\k28}ha{\k14}ji{\k29}ma{\k18}tte{\k27}ru {\k29}ha{\k15}ji{\k31}ma{\k18}tte{\k41}ru {\k30}wa{\k21}ta{\k35}shi{\k17}ta{\k120}chi
-Dialogue: 0,0:21:37.60,0:21:41.52,Romaji_ED_can't fucking see,,0,0,0,,{\fad(200,200)\k30}{\k43}su{\k31}ki {\k27}ga {\k31}ki{\k31}ra{\k30}i {\k26}de {\k45}ki{\k47}me{\k54}te
-Dialogue: 0,0:21:42.61,0:21:47.16,Romaji_ED_can't fucking see,,0,0,0,,{\fad(200,200)\k17}{\k28}yo{\k34}ke{\k23}i {\k33}na {\k28}ma{\k32}yo{\k23}i {\k33}i{\k31}ra{\k30}na{\k15}i {\k41}i{\k31}ra{\k32}na{\k24}i
-Dialogue: 0,0:21:47.16,0:21:51.33,Romaji_ED_can't fucking see,,0,0,0,,{\fad(200,200)\k34}{\k33}cha{\k27}i{\k26}mu {\k34}ka{\k27}ra {\k32}cha{\k31}i{\k42}mu {\k45}ma{\k84}de
-Dialogue: 0,0:21:51.91,0:21:56.37,Romaji_ED_can't fucking see,,0,0,0,,{\fad(200,200)\k34}{\k30}be{\k30}n{\k18}kyo{\k7}u {\k25}wo {\k36}shi{\k32}ta{\k27}ra {\k32}ho{\k29}u{\k28}ka{\k16}go {\k45}do{\k24}u{\k28}shi{\k5}you
-Dialogue: 0,0:21:56.37,0:22:07.09,Romaji_ED_can't fucking see,,0,0,0,,{\fad(200,200)\3c&HFFFFFF&\bord3\blur4.5}{\k33}{\k45}ju{\k41}gyo{\k26}u {\k49}chu{\k44}u {\k26}ni {\k46}na{\k44}ga{\k30}me{\k110}ta {\k55}ma{\k44}do {\k24}no {\k34}so{\k27}to {\k30}he {\k30}to {\k48}ha{\k39}ba{\k32}ta{\k215}ku
-Dialogue: 0,0:22:07.09,0:22:11.72,Romaji_ED_can't fucking see,,0,0,0,,{\fad(200,200)\k23}{\k30}o{\k28}mo{\k13}i{\k26}tsu{\k51}ki {\k30}de {\k29}i{\k29}i {\k30}ya{\k29}tte {\k16}mi{\k27}yo{\k102}u
-Dialogue: 0,0:22:11.72,0:22:16.39,Romaji_ED_can't fucking see,,0,0,0,,{\fad(200,200)\k32}{\k24}a{\k35}shi{\k17}ta {\k27}ja {\k44}o{\k32}so{\k56}i {\k29}a{\k18}i{\k27}de{\k42}a {\k29}da{\k32}su {\k23}yo
-Dialogue: 0,0:22:16.39,0:22:21.15,Romaji_ED_can't fucking see,,0,0,0,,{\fad(200,200)\k37}{\k28}i{\k30}ma {\k16}shi{\k30}ka {\k46}de{\k28}ki{\k32}na{\k25}i {\k31}ko{\k32}to {\k14}ga {\k30}shi{\k45}ta{\k52}i
-Dialogue: 0,0:22:21.15,0:22:25.82,Romaji_ED_can't fucking see,,0,0,0,,{\fad(200,200)\k38}{\k28}ta{\k27}no{\k16}shi{\k31}ma {\k44}na{\k28}ku{\k57}cha {\k30}na{\k16}ni {\k30}so{\k44}re {\k31}i{\k28}i {\k19}ne
-Dialogue: 0,0:22:25.82,0:22:30.62,Romaji_ED_can't fucking see,,0,0,0,,{\fad(200,200)\3c&HFFFFFF&\bord3\blur4.5}{\k40}{\k17}ha{\k15}ji{\k29}ma{\k16}tte{\k26}ru {\k31}ha{\k14}ji{\k28}ma{\k20}tte{\k39}ru {\k30}wa{\k19}ku {\k42}wa{\k25}ku {\k33}da{\k28}y{\k28}s
-Dialogue: 0,0:22:30.62,0:22:35.45,Romaji_ED_can't fucking see,,0,0,0,,{\fad(200,200)\3c&HFFFFFF&\bord3\blur4.5}{\k34}{\k17}ha{\k15}ji{\k30}ma{\k14}tte{\k26}ru {\k32}ha{\k14}ji{\k31}ma{\k15}tte{\k40}ru {\k33}wa{\k22}ta{\k33}shi{\k18}ta{\k109}chi
-Dialogue: 1,0:21:16.37,0:21:20.63,TL_ED,,0,0,0,,{\fad(200,200)\blur1.5}I want to do something I can only do now.
-Dialogue: 0,0:21:16.37,0:21:20.63,TL_ED_chalk thing,,0,0,0,,{\fad(200,200)\c&HB2AAED&\3c&HB1A9EB&\blur4.5}I want to do something I can only do now.
-Dialogue: 1,0:21:21.09,0:21:25.84,TL_ED,,0,0,0,,{\fad(200,200)\blur1.5}Something fun. What's that? Not bad.
-Dialogue: 0,0:21:21.09,0:21:25.84,TL_ED_chalk thing,,0,0,0,,{\fad(200,200)\3c&H97C0F8&\blur4.5}Something fun. What's that? Not bad.
-Dialogue: 1,0:21:25.84,0:21:30.56,TL_ED,,0,0,0,,{\fad(200,200)}These exciting days are just beginning
-Dialogue: 0,0:21:25.84,0:21:30.56,TL_ED_chalk thing,,0,0,0,,{\fad(200,200)\3c&H70F5F8&\blur4.5}These exciting days are just beginning
-Dialogue: 0,0:21:30.56,0:21:35.27,TL_ED,,0,0,0,,{\fad(200,200)\3c&HFFFFFF&\bord3\blur4.5}It's about to begin for us.
-Dialogue: 0,0:21:37.60,0:21:41.52,TL_ED,,0,0,0,,{\fad(200,200)}Decide if you like it or not.
-Dialogue: 0,0:21:42.61,0:21:47.16,TL_ED,,0,0,0,,{\fad(200,200)}We don't need any unnecessary indecisions at all.
-Dialogue: 0,0:21:47.16,0:21:51.33,TL_ED,,0,0,0,,{\fad(200,200)}From one bell to the next.
-Dialogue: 0,0:21:51.91,0:21:56.37,TL_ED,,0,0,0,,{\fad(200,200)}If I study now, what should I do after school?
-Dialogue: 0,0:21:56.37,0:22:07.09,TL_ED,,0,0,0,,{\fad(200,200)\3c&HFFFFFF&\bord3\blur4.5}I fly out the window towards the scenery I gazed at during class.
-Dialogue: 0,0:22:07.09,0:22:11.72,TL_ED,,0,0,0,,{\fad(200,200)}If you think of something, then let's do it!
-Dialogue: 0,0:22:11.72,0:22:16.39,TL_ED,,0,0,0,,{\fad(200,200)}Tomorrow will be too late. I have an idea.
-Dialogue: 0,0:22:16.39,0:22:21.15,TL_ED,,0,0,0,,{\fad(200,200)}I want to do something I can only do now.
-Dialogue: 0,0:22:21.15,0:22:25.82,TL_ED,,0,0,0,,{\fad(200,200)}Something fun. What's that? Not bad.
-Dialogue: 0,0:22:25.82,0:22:30.62,TL_ED,,0,0,0,,{\fad(200,200)\3c&HFFFFFF&\bord3\blur4.5}These exciting days are just beginning
-Dialogue: 0,0:22:30.62,0:22:35.45,TL_ED,,0,0,0,,{\fad(200,200)\3c&HFFFFFF&\bord3\blur4.5}It's about to begin for us.
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Meta ================================
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Full source at https://github.com/butterfansubs/kitakubu
+Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Dialogue ============================
+Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,First frame
+Dialogue: 10,0:00:06.90,0:00:09.15,Default,nar,0,0,0,,{\i1}Hooded seals live in the Arctic.
+Dialogue: 10,0:00:13.11,0:00:14.78,Default,nar,0,0,0,,{\i1}Did you all know
+Dialogue: 10,0:00:15.32,0:00:17.99,Default,nar,0,0,0,,{\i1}that the hooded seal's lactation period is about four days?
+Dialogue: 10,0:00:18.83,0:00:21.45,Default,nar,0,0,0,,{\i1}They say that's the shortest of any mammal.
+Dialogue: 10,0:00:21.91,0:00:23.12,Default,nar,0,0,0,,But setting that aside...
+Dialogue: 10,0:00:26.08,0:00:27.67,Default,natsu,0,0,0,,{\i1}Japan is currently in the height of spring.
+Dialogue: 10,0:00:28.25,0:00:31.42,Default,natsu,0,0,0,,{\i1}As a rain of pollen tickles my nasal membranes,
+Dialogue: 10,0:00:31.67,0:00:35.43,Default,natsu,0,0,0,,{\i1}I, Andou Natsuki, have officially become a high school student.
+Dialogue: 10,0:00:36.84,0:00:38.93,Default,natsu,0,0,0,,{\i1}Today is club recruiting day.
+Dialogue: 10,0:00:39.31,0:00:42.56,Default,natsu,0,0,0,,{\i1}High school is amazing! \NThere are so many different clubs!
+Dialogue: 10,0:00:54.40,0:00:57.70,Default,sakura,0,0,0,,H... H... Help me up...
+Dialogue: 10,0:00:57.70,0:01:01.99,Default,natsu,0,0,0,,{\i1}I guess spring also brings along \Nsome things I don't understand.
+Dialogue: 10,0:01:02.54,0:01:04.12,Default,aza,0,0,0,,Stray seal!
+Dialogue: 10,0:01:07.63,0:01:09.34,Default,natsu,0,0,0,,What was that all about?
+Dialogue: 10,0:01:09.79,0:01:11.34,Default,furu,0,0,0,,Hey, Nattsun!
+Dialogue: 10,0:01:13.51,0:01:16.13,Default,natsu,0,0,0,,Um... Who are you?
+Dialogue: 10,0:01:16.13,0:01:17.80,Default,furu,0,0,0,,I'm Furuhashi! Furuhashi!
+Dialogue: 10,0:01:17.80,0:01:19.05,Default,,0,0,0,,We went to middle school together!
+Dialogue: 10,0:01:19.05,0:01:20.43,Default,aza,0,0,0,,This happens a lot!
+Dialogue: 10,0:01:21.01,0:01:23.35,Default,furu,0,0,0,,Nattsun, your jokes are really too much.
+Dialogue: 10,0:01:23.35,0:01:26.35,Default,natsu,0,0,0,,I thought I told you to stop calling me\Nthat once we were in high school.
+Dialogue: 10,0:01:26.35,0:01:29.06,Default,furu,0,0,0,,Well? Have you picked your club yet, Nattsun?
+Dialogue: 10,0:01:29.98,0:01:31.61,Default,natsu,0,0,0,,Are you sticking with the Tennis Club?
+Dialogue: 10,0:01:33.36,0:01:36.53,Default,furu,0,0,0,,Hmm... But doing the same thing as in middle school
+Dialogue: 10,0:01:36.53,0:01:38.07,Default,,0,0,0,,wouldn't be very exciting.
+Dialogue: 10,0:01:39.45,0:01:42.28,Default,furu,0,0,0,,Maybe I should be bold and try the Hundred Poems Club!
+Dialogue: 10,0:01:42.28,0:01:43.12,Default,natsu,0,0,0,,Huh?
+Dialogue: 10,0:01:43.12,0:01:46.12,Default,furu,0,0,0,,Look! It's even the same arm motion.
+Dialogue: 10,0:01:43.12,0:01:46.75,Default,aza,0,0,0,,{\i1}{\an8}As friends and strangers come and go...
+Dialogue: 10,0:01:46.12,0:01:49.13,Default,natsu,0,0,0,,I don't know if it's wise to join a club based on that.
+Dialogue: 10,0:01:46.75,0:01:47.87,Default,aza,0,0,0,,{\i1}{\an8}Fault.
+Dialogue: 10,0:01:49.54,0:01:53.21,Default,natsu,0,0,0,,I don't like dealing with the hierarchies in clubs, anyway.
+Dialogue: 10,0:01:53.21,0:01:55.38,Default,natsu,0,0,0,,Maybe I should join the Going Home Club.
+Dialogue: 10,0:01:55.38,0:01:59.14,Default,karin,0,0,0,,Really? Andou-san, you're joining the Going Home Club, too?
+Dialogue: 10,0:01:59.89,0:02:02.64,Default,natsu,0,0,0,,Um... you're Touno-san, right?
+Dialogue: 10,0:02:02.64,0:02:05.22,Default,karin,0,0,0,,Yeah! I'm Touno Karin. It's nice to meet you!
+Dialogue: 10,0:02:05.81,0:02:07.35,Default,karin,0,0,0,,But I'm so glad.
+Dialogue: 10,0:02:07.35,0:02:10.06,Default,,0,0,0,,I thought I would be the only one joining the Going Home Club.
+Dialogue: 10,0:02:10.44,0:02:13.02,Default,natsu,0,0,0,,No, I really doubt that...
+Dialogue: 10,0:02:14.28,0:02:15.86,Default,natsu,0,0,0,,Furuhashi, you could join the Going Home Club—
+Dialogue: 10,0:02:15.86,0:02:19.24,Default,karin,0,0,0,,What?! No, I've got my Hundred Poems Club!
+Dialogue: 10,0:02:19.24,0:02:21.03,Default,natsu,0,0,0,,Wasn't that just some idea you had?
+Dialogue: 10,0:02:21.03,0:02:24.49,Default,furu,0,0,0,,Oh, right. I should go there and observe, or something.
+Dialogue: 10,0:02:24.49,0:02:25.49,Default,,0,0,0,,That's right, that's right...
+Dialogue: 10,0:02:26.29,0:02:27.50,Default,karin,0,0,0,,Observe?
+Dialogue: 10,0:02:28.79,0:02:30.58,Default,natsu,0,0,0,,Well, why don't we do the same?
+Dialogue: 10,0:02:31.21,0:02:33.84,Default,natsu,0,0,0,,Observe the Going Home Club! Yeah, right.
+Dialogue: 10,0:02:33.84,0:02:35.17,Default,karin,0,0,0,,Sure, let's go!
+Dialogue: 10,0:02:36.21,0:02:38.26,Default,natsu,0,0,0,,Huh? What?
+Dialogue: 10,0:02:39.09,0:02:42.51,Default,natsu,0,0,0,,No, the Going Home Club isn't...
+Dialogue: 10,0:02:43.10,0:02:44.01,Default,natsu,0,0,0,,a...
+Dialogue: 10,0:02:44.26,0:02:45.26,Default,natsu,0,0,0,,real...
+Dialogue: 10,0:02:45.26,0:02:46.97,Default,natsu,0,0,0,,club...
+Dialogue: 10,0:02:50.31,0:02:52.02,Default,natsu,0,0,0,,It{\i1} is {\i0}real!
+Dialogue: 10,0:04:23.11,0:04:24.24,Default,natsu,0,0,0,,Wait a minute.
+Dialogue: 10,0:04:24.24,0:04:26.78,Default,natsu,0,0,0,,Why does the Going Home Club have its own club room?!
+Dialogue: 10,0:04:26.78,0:04:28.62,Default,natsu,0,0,0,,That's taking "anything goes" too far!
+Dialogue: 10,0:04:28.62,0:04:30.74,Default,karin,0,0,0,,It's amazing, isn't it?
+Dialogue: 10,0:04:32.04,0:04:33.16,Default,sakura,0,0,0,,Come in!
+Dialogue: 10,0:04:33.16,0:04:34.62,Default,natsu,0,0,0,,Have a little doubt here...
+Dialogue: 10,0:04:40.75,0:04:42.01,Default,karin,0,0,0,,Excuse us!
+Dialogue: 10,0:04:42.67,0:04:44.01,Default,sakura,0,0,0,,Your membership is approved!
+Dialogue: 10,0:04:44.01,0:04:45.38,Default,natsu,0,0,0,,That was fast!
+Dialogue: 10,0:04:45.38,0:04:47.55,Default,botan,0,0,0,,But you're applying for membership, right?
+Dialogue: 10,0:04:47.55,0:04:48.47,Default,karin,0,0,0,,Yes!
+Dialogue: 10,0:04:48.80,0:04:50.31,Default,natsu,0,0,0,,I'm not really...
+Dialogue: 10,0:04:50.31,0:04:54.27,Default,claire,0,0,0,,I'm so happy. What might your names be?
+Dialogue: 10,0:04:54.81,0:04:56.65,Default,karin,0,0,0,,I'm Touno Karin!
+Dialogue: 10,0:04:56.65,0:04:58.52,Default,natsu,0,0,0,,I'm Andou Natsuki.
+Dialogue: 10,0:04:58.52,0:05:00.52,Default,sakura,0,0,0,,Karin-chan and Natsuki-chan, then!
+Dialogue: 10,0:05:01.28,0:05:05.20,Default,sakura,0,0,0,,Right! Let me introduce the crazy \Nmembers of the Going Home Club!
+Dialogue: 10,0:05:05.20,0:05:07.16,Default,natsu,0,0,0,,What?! The members are crazy?!
+Dialogue: 10,0:05:08.12,0:05:11.99,Default,sakura,0,0,0,,Sixteenth heir to the ancient \NHagizuki-ryuu martial arts style,
+Dialogue: 10,0:05:12.87,0:05:14.25,Default,,0,0,0,,Oohagi Botan-chan.
+Dialogue: 10,0:05:14.71,0:05:16.21,Default,botan,0,0,0,,Let's fight bears together!
+Dialogue: 10,0:05:16.21,0:05:18.33,Default,natsu,0,0,0,,What?! She's exceptional!
+Dialogue: 10,0:05:18.83,0:05:21.25,Default,sakura,0,0,0,,Daughter of the head of the Kokonoe Corporation,
+Dialogue: 10,0:05:22.67,0:05:24.13,Default,,0,0,0,,Kokonoe Claire-chan!
+Dialogue: 10,0:05:25.51,0:05:28.05,Default,claire,0,0,0,,If we get any more members, we'll have to hire a maid.
+Dialogue: 10,0:05:28.05,0:05:30.35,Default,natsu,0,0,0,,What?! She's exceptional, too!
+Dialogue: 10,0:05:30.35,0:05:32.93,Default,sakura,0,0,0,,And I am the Going Home Club's president,
+Dialogue: 10,0:05:32.93,0:05:36.31,Default,,0,0,0,,proud bearer of type A blood, \Nborn under the sign of Taurus...
+Dialogue: 10,0:05:38.27,0:05:39.65,Default,sakura,0,0,0,,Doumyouji Sakura!
+Dialogue: 10,0:05:40.86,0:05:43.69,Default,sakura,0,0,0,,Heir to my grandmother's sewing scissors!
+Dialogue: 10,0:05:45.28,0:05:47.28,Default,natsu,0,0,0,,That means you're just an ordinary person!
+Dialogue: 10,0:05:49.24,0:05:50.78,Default,natsu,0,0,0,,L-Look.
+Dialogue: 10,0:05:50.78,0:05:53.66,Default,natsu,0,0,0,,I appreciate the introductions,
+Dialogue: 10,0:05:53.66,0:05:57.12,Default,,0,0,0,,but I'm not actually interested in joining your club...
+Dialogue: 10,0:05:58.21,0:05:59.38,Default,natsu,0,0,0,,So can I go home now?
+Dialogue: 10,0:06:00.13,0:06:01.25,Default,sakura,0,0,0,,You...
+Dialogue: 10,0:06:03.38,0:06:05.26,Default,sakura,0,0,0,,You're incredible!
+Dialogue: 10,0:06:05.59,0:06:08.26,Default,sakura,0,0,0,,You want to go home right away...
+Dialogue: 10,0:06:08.26,0:06:11.76,Default,sakura,0,0,0,,You have incredible Going Home Spirit within you!
+Dialogue: 10,0:06:12.01,0:06:12.72,Default,,0,0,0,,Huh?
+Dialogue: 10,0:06:13.76,0:06:14.72,Default,claire,0,0,0,,That's right!
+Dialogue: 10,0:06:14.72,0:06:17.39,Default,,0,0,0,,We must order dresses for the two of you right away!
+Dialogue: 10,0:06:17.39,0:06:18.52,Default,,0,0,0,,Huh? W-Wait!
+Dialogue: 10,0:06:19.52,0:06:21.77,Default,botan,0,0,0,,We've got some real Uber Loogies among us now.
+Dialogue: 10,0:06:21.77,0:06:23.65,Default,natsu,0,0,0,,If you're talking about an impressive newcomer,
+Dialogue: 10,0:06:23.65,0:06:25.28,Default,,0,0,0,,the term is "Super Rookie"!
+Dialogue: 10,0:06:26.69,0:06:29.03,Default,sakura,0,0,0,,We've got two spirited first-years joining us!
+Dialogue: 10,0:06:29.03,0:06:30.66,Default,,0,0,0,,This should be a lot of fun!
+Dialogue: 10,0:06:32.32,0:06:34.20,Default,sa/bo/cl,0,0,0,,Welcome to the Going Home Club!
+Dialogue: 10,0:06:40.37,0:06:41.79,Default,natsu,0,0,0,,It's too soon for the ending theme!
+Dialogue: 10,0:06:48.55,0:06:51.68,Default,furu,0,0,0,,So you ended up joining the Going Home Club yesterday!
+Dialogue: 10,0:06:51.68,0:06:53.51,Default,natsu,0,0,0,,This is no laughing matter.
+Dialogue: 10,0:06:53.51,0:06:55.43,Default,furu,0,0,0,,But it's so funny, Nattsu—
+Dialogue: 10,0:06:55.43,0:06:57.93,Default,furu,0,0,0,,Uh, I mean, um, Natsukichi?
+Dialogue: 10,0:06:57.93,0:07:01.90,Default,natsu,0,0,0,,You don't have to invent a new nickname for me, Furukawa.
+Dialogue: 10,0:07:02.77,0:07:04.23,Default,furu,0,0,0,,It's Furuhashi.
+Dialogue: 10,0:07:04.57,0:07:08.65,Default,natsu,0,0,0,,Anyway, they told me to start coming officially, today.
+Dialogue: 10,0:07:08.65,0:07:10.82,Default,natsu,0,0,0,,What am I gonna do?
+Dialogue: 10,0:07:11.99,0:07:15.83,Default,furu,0,0,0,,Well, it looks like not going isn't an option.
+Dialogue: 10,0:07:23.33,0:07:24.54,Default,karin,0,0,0,,Hey, Andou-san.
+Dialogue: 10,0:07:25.59,0:07:28.59,Default,natsu,0,0,0,,You can call me Natsuki. And I'll call you Karin.
+Dialogue: 10,0:07:28.59,0:07:31.34,Default,karin,0,0,0,,Really? Then can I call you Nat-chan?
+Dialogue: 10,0:07:31.34,0:07:32.72,Default,natsu,0,0,0,,Sure, fine with me.
+Dialogue: 10,0:07:35.39,0:07:36.56,Default,natsu,0,0,0,,So, what is it?
+Dialogue: 10,0:07:36.56,0:07:37.56,Default,karin,0,0,0,,Nat-chan.
+Dialogue: 10,0:07:40.85,0:07:41.85,Default,karin,0,0,0,,Nat-chan...
+Dialogue: 10,0:07:44.40,0:07:45.61,Default,karin,0,0,0,,Nat-chan...
+Dialogue: 10,0:07:47.73,0:07:49.36,Default,natsu,0,0,0,,Um...
+Dialogue: 10,0:07:49.90,0:07:51.07,Default,karin,0,0,0,,Oh, that's right.
+Dialogue: 10,0:07:51.07,0:07:54.32,Default,,0,0,0,,Nat-chan, what do you think they \Ndo in the Going Home Club?
+Dialogue: 10,0:07:55.78,0:07:57.16,Default,natsu,0,0,0,,You don't know?!
+Dialogue: 10,0:07:57.66,0:07:59.79,Default,natsu,0,0,0,,That's what I wanted to ask!
+Dialogue: 10,0:07:59.79,0:08:01.71,Default,,0,0,0,,And what made you want to join
+Dialogue: 10,0:08:01.71,0:08:03.42,Default,,0,0,0,,if you don't even know what they do?
+Dialogue: 10,0:08:03.42,0:08:07.17,Default,karin,0,0,0,,What? Well, it was during club recruiting day...
+Dialogue: 10,0:08:09.96,0:08:12.59,Default,aza,0,0,0,,Stand! Stand up!
+Dialogue: 10,0:08:17.51,0:08:18.35,Default,karin,0,0,0,,{\i1}This is it!
+Dialogue: 10,0:08:18.35,0:08:19.47,Default,natsu,0,0,0,,{\i1}What{\i0} is it?!
+Dialogue: 10,0:08:19.47,0:08:22.18,Default,natsu,0,0,0,,What about that made you want to join their club?!
+Dialogue: 10,0:08:22.18,0:08:24.56,Default,natsu,0,0,0,,And they were recruiting people with that?!
+Dialogue: 10,0:08:25.06,0:08:27.69,Default,natsu,0,0,0,,I want to go home already.
+Dialogue: 10,0:08:27.69,0:08:29.61,Default,karin,0,0,0,,That's a Super Rookie for you!
+Dialogue: 10,0:08:29.61,0:08:30.82,Default,natsu,0,0,0,,Shut up already.
+Dialogue: 10,0:08:31.61,0:08:33.40,Default,karin,0,0,0,,It's okay, Nat-chan.
+Dialogue: 10,0:08:33.40,0:08:35.41,Default,,0,0,0,,If you ask our senpai in Japanese,
+Dialogue: 10,0:08:35.41,0:08:38.83,Default,,0,0,0,,I'm sure they'll tell you what the Going Home Club does.
+Dialogue: 10,0:08:38.83,0:08:42.41,Default,natsu,0,0,0,,Well, yes, that's probably true...
+Dialogue: 10,0:08:42.41,0:08:47.17,Default,natsu,0,0,0,,But it didn't occur to me that I had \Na language choice besides Japanese.
+Dialogue: 10,0:08:47.83,0:08:49.67,Default,aza,0,0,0,,Mohawk Seal!
+Dialogue: 10,0:08:51.92,0:08:52.84,Default,natsu,0,0,0,,Excuse me.
+Dialogue: 10,0:08:52.84,0:08:54.17,Default,sakura,0,0,0,,The first-years are here!
+Dialogue: 10,0:08:54.17,0:08:55.26,Default,claire,0,0,0,,Welcome!
+Dialogue: 10,0:08:55.26,0:08:57.89,Default,botan,0,0,0,,I've got controllers ready for you.
+Dialogue: 10,0:08:57.89,0:09:00.51,Default,sakura,0,0,0,,Oh, that's right. Chairs, chairs!
+Dialogue: 10,0:09:00.51,0:09:02.60,Default,natsu,0,0,0,,Um, Doumyouji-senpai...
+Dialogue: 10,0:09:02.60,0:09:05.85,Default,sakura,0,0,0,,Take no great pains. Prithee call me Sakura.
+Dialogue: 10,0:09:05.85,0:09:07.48,Default,natsu,0,0,0,,Okay, Sakura-senpai—
+Dialogue: 10,0:09:07.48,0:09:09.11,Default,sakura,0,0,0,,Aye, come nearer.
+Dialogue: 10,0:09:10.36,0:09:13.36,Default,natsu,0,0,0,,Sakura-senpai, why are you \Nusing such old-timey language?
+Dialogue: 10,0:09:13.36,0:09:16.07,Default,botan,0,0,0,,Probably because sixth period was classic literature.
+Dialogue: 10,0:09:16.07,0:09:17.61,Default,natsu,0,0,0,,She's so easily influenced!
+Dialogue: 10,0:09:17.61,0:09:20.45,Default,karin,0,0,0,,Nat-chan. You wanted to ask something else, remember?
+Dialogue: 10,0:09:20.45,0:09:21.70,Default,,0,0,0,,Oh, yeah.
+Dialogue: 10,0:09:22.49,0:09:23.62,Default,natsu,0,0,0,,Sakura-senpai.
+Dialogue: 10,0:09:24.79,0:09:27.42,Default,natsu,0,0,0,,What exactly does the Going Home Club do?
+Dialogue: 10,0:09:35.42,0:09:36.63,Default,sakura,0,0,0,,We have fun!
+Dialogue: 10,0:09:38.89,0:09:40.05,Default,natsu,0,0,0,,I told you, it's too soon!
+Dialogue: 10,0:09:40.05,0:09:41.93,Default,,0,0,0,,How desperate are you to end the show?!
+Dialogue: 10,0:09:42.97,0:09:47.27,Default,sakura,0,0,0,,{\pos(640,615)}If you do nothing, your youth will pass by in an instant.
+Dialogue: 10,0:09:47.27,0:09:49.27,Default,sakura,0,0,0,,{\pos(640,615)}That is why we formed the Going Home Club,
+Dialogue: 10,0:09:49.27,0:09:51.90,Default,,0,0,0,,{\pos(640,615)}to enjoy ourselves as much as possible
+Dialogue: 10,0:09:51.90,0:09:53.90,Default,,0,0,0,,{\pos(640,615)}after school and on the way home.
+Dialogue: 10,0:09:54.61,0:09:56.70,Default,claire,0,0,0,,Is that what it was?
+Dialogue: 10,0:09:56.70,0:09:58.74,Default,natsu,0,0,0,,Not even your own members knew?!
+Dialogue: 10,0:09:58.99,0:10:02.78,Default,sakura,0,0,0,,We want to do things that are fun, but that one shouldn't do.
+Dialogue: 10,0:10:02.78,0:10:04.24,Default,natsu,0,0,0,,Do things it's okay to do!
+Dialogue: 10,0:10:05.54,0:10:08.08,Default,sakura,0,0,0,,But today, we're going to do something it's okay to do.
+Dialogue: 10,0:10:08.08,0:10:09.75,Default,sakura,0,0,0,,Botan-chan! Claire-chan!
+Dialogue: 10,0:10:10.71,0:10:12.46,Default,natsu,0,0,0,,What are you going to do?
+Dialogue: 10,0:10:13.13,0:10:15.71,Default,claire,0,0,0,,We're going to the park to feed the pigeons.
+Dialogue: 10,0:10:16.26,0:10:17.76,Default,sakura,0,0,0,,Feeding the pigeons!
+Dialogue: 10,0:10:18.01,0:10:19.38,Default,botan,0,0,0,,Project Code...
+Dialogue: 10,0:10:19.97,0:10:20.76,Default,,0,0,0,,MANNA!
+Dialogue: 10,0:10:20.76,0:10:23.26,Default,natsu,0,0,0,,It doesn't need a title that cool!
+Dialogue: 10,0:10:29.39,0:10:33.27,Default,natsu,0,0,0,,Feeding the pigeons? What are they, little kids?
+Dialogue: 10,0:10:33.73,0:10:35.28,Default,botan,0,0,0,,There!
+Dialogue: 10,0:10:48.37,0:10:50.25,Default,sakura,0,0,0,,It's so fun!
+Dialogue: 10,0:10:53.04,0:10:54.75,Default,sakura,0,0,0,,Yeah! He took it!
+Dialogue: 10,0:10:55.21,0:10:59.13,Default,sakura,0,0,0,,Come on, little guy! It's tasty!
+Dialogue: 10,0:11:03.55,0:11:06.64,Default,natsu,0,0,0,,I guess... it might be kind of fun.
+Dialogue: 10,0:11:42.43,0:11:44.47,Default,natsu,0,0,0,,{\i1}Just open it normally!
+Dialogue: 10,0:11:49.98,0:11:55.69,Default,sakura,0,0,0,,So, that was Botan-chan's demonstration \Nof Hagizuki-ryuu martial arts!
+Dialogue: 10,0:11:58.86,0:12:00.69,Default,natsu,0,0,0,,I'm impressed that you can cut it
+Dialogue: 10,0:12:00.69,0:12:02.95,Default,,0,0,0,,so cleanly with just your bare hand.
+Dialogue: 10,0:12:02.95,0:12:05.95,Default,botan,0,0,0,,To be precise, I'm not cutting it with my hand.
+Dialogue: 10,0:12:06.45,0:12:07.95,Default,botan,0,0,0,,By moving my hand very quickly,
+Dialogue: 10,0:12:07.95,0:12:10.45,Default,,0,0,0,,I create a momentary vacuum in the air.
+Dialogue: 10,0:12:10.45,0:12:12.71,Default,,0,0,0,,That's what cuts it.
+Dialogue: 10,0:12:13.79,0:12:15.79,Default,botan,0,0,0,,It's the same principle as the kamaitachi.
+Dialogue: 10,0:12:15.79,0:12:17.71,Default,natsu,0,0,0,,There it is! A manga explanation!
+Dialogue: 10,0:12:17.71,0:12:20.96,Default,botan,0,0,0,,It's a closely guarded family secret, so don't tell anyone.
+Dialogue: 10,0:12:20.96,0:12:23.55,Default,natsu,0,0,0,,What?! You're taking a closely guarded secret pretty lightly!
+Dialogue: 10,0:12:25.05,0:12:28.26,Default,karin,0,0,0,,But Botan-senpai really is strong, isn't she?
+Dialogue: 10,0:12:28.26,0:12:30.93,Default,claire,0,0,0,,Yes. She's had many heroic exploits, as well.
+Dialogue: 10,0:12:31.81,0:12:34.85,Default,sakura,0,0,0,,Especially her "Bear Tour" last summer.
+Dialogue: 10,0:12:34.85,0:12:36.98,Default,sakura,0,0,0,,That was really scary!
+Dialogue: 10,0:12:38.06,0:12:41.49,Default,natsu,0,0,0,,What kind of ominous-sounding tour is that?
+Dialogue: 10,0:12:41.49,0:12:45.24,Default,sakura,0,0,0,,Botan-chan kept us up to date with very detailed emails...
+Dialogue: 10,0:12:45.95,0:12:47.95,Default,botan,0,0,0,,July 28th.
+Dialogue: 10,0:12:48.28,0:12:50.24,Default,botan,0,0,0,,I'm fighting a brown bear in Hokkaido.
+Dialogue: 10,0:12:50.24,0:12:51.45,Default,natsu,0,0,0,,I knew it!
+Dialogue: 10,0:12:51.45,0:12:53.96,Default,,0,0,0,,Why would you do something like that?!
+Dialogue: 10,0:12:53.96,0:12:56.04,Default,botan,0,0,0,,I heard that the brown bear was the strongest
+Dialogue: 10,0:12:56.04,0:12:57.38,Default,,0,0,0,,wild animal in Japan.
+Dialogue: 10,0:12:57.38,0:12:59.13,Default,,0,0,0,,So I didn't have a choice.
+Dialogue: 10,0:12:59.13,0:13:00.05,Default,natsu,0,0,0,,Yes, you did!
+Dialogue: 10,0:13:00.05,0:13:02.96,Default,,0,0,0,,And your reason doesn't have a shred \Nof high school girlishness in it!
+Dialogue: 10,0:13:07.30,0:13:09.10,Default,botan,0,0,0,,The match was decided swiftly.
+Dialogue: 10,0:13:09.55,0:13:10.93,Default,botan,0,0,0,,Was that all?
+Dialogue: 10,0:13:10.93,0:13:12.52,Default,botan,0,0,0,,I was left with only disappointment.
+Dialogue: 10,0:13:12.52,0:13:14.52,Default,natsu,0,0,0,,You beat it?!
+Dialogue: 10,0:13:14.52,0:13:15.94,Default,botan,0,0,0,,I beat the brown bear!
+Dialogue: 10,0:13:15.94,0:13:18.10,Default,,0,0,0,,But I'm bummed by how weak it was.
+Dialogue: 10,0:13:18.10,0:13:19.94,Default,,0,0,0,,Its punches looked like they weren't even moving.
+Dialogue: 10,0:13:19.94,0:13:20.77,Default,,0,0,0,,Teehee.
+Dialogue: 10,0:13:20.77,0:13:22.69,Default,natsu,0,0,0,,It's a little late to bring out the
+Dialogue: 10,0:13:22.69,0:13:24.99,Default,,0,0,0,,high school girl mannerisms in your emails!
+Dialogue: 10,0:13:24.99,0:13:26.40,Default,botan,0,0,0,,And, send!
+Dialogue: 10,0:13:26.86,0:13:30.49,Default,bear,0,0,0,,Don't get cocky... just because you beat me...
+Dialogue: 10,0:13:30.49,0:13:35.00,Default,bear,0,0,0,,In Alaska, there dwells a bear far more powerful than I...
+Dialogue: 10,0:13:35.46,0:13:38.25,Default,botan,0,0,0,,I felt as if the downed bear was speaking to me.
+Dialogue: 10,0:13:38.25,0:13:41.13,Default,natsu,0,0,0,,No! It absolutely was {\i1}not{\i0} speaking to you!
+Dialogue: 10,0:13:46.51,0:13:48.26,Default,grizzly,0,0,0,,So, the brown bear was defeated.
+Dialogue: 10,0:13:49.01,0:13:52.97,Default,polar,0,0,0,,But he was the weakest of us Four Bear Kings, so—
+Dialogue: 10,0:13:52.97,0:13:55.52,Default,natsu,0,0,0,,That didn't happen! I know it didn't!
+Dialogue: 10,0:13:56.35,0:13:58.85,Default,claire,0,0,0,,July 30th, Alaska.
+Dialogue: 10,0:13:58.85,0:14:01.40,Default,natsu,0,0,0,,You flew to America?!
+Dialogue: 10,0:14:02.27,0:14:04.28,Default,botan,0,0,0,,I found a grizzly in the forest.
+Dialogue: 10,0:14:06.82,0:14:09.32,Default,botan,0,0,0,,Truly, he was a full size larger than the brown bear.
+Dialogue: 10,0:14:12.99,0:14:15.25,Default,botan,0,0,0,,"I'm in America right now!
+Dialogue: 10,0:14:15.25,0:14:18.71,Default,,0,0,0,,I'm shocked by how big American hamburgers are!
+Dialogue: 10,0:14:18.71,0:14:20.54,Default,,0,0,0,,I'm so stuffed!"
+Dialogue: 10,0:14:21.00,0:14:24.21,Default,natsu,0,0,0,,All you did was enjoy your first trip to America!
+Dialogue: 10,0:14:24.21,0:14:25.96,Default,claire,0,0,0,,"And then I beat the bear."
+Dialogue: 10,0:14:25.96,0:14:29.01,Default,natsu,0,0,0,,The bear doesn't even matter anymore, does it?!
+Dialogue: 10,0:14:29.51,0:14:32.22,Default,botan,0,0,0,,After defeating the grizzly, I realized...
+Dialogue: 10,0:14:32.22,0:14:35.81,Default,,0,0,0,,Now that I'd come this far, I had to take on a polar bear.
+Dialogue: 10,0:14:35.81,0:14:37.52,Default,natsu,0,0,0,,Why?!
+Dialogue: 10,0:14:38.44,0:14:41.98,Default,botan,0,0,0,,Bears get bigger and stronger the further north you go.
+Dialogue: 10,0:14:42.31,0:14:44.69,Default,botan,0,0,0,,And I'd started feeling like I was playing a fighting game.
+Dialogue: 10,0:14:45.15,0:14:47.15,Default,natsu,0,0,0,,She's got game brain...
+Dialogue: 10,0:14:49.45,0:14:51.28,Default,botan,0,0,0,,July 31st.
+Dialogue: 10,0:14:51.70,0:14:53.91,Default,,0,0,0,,I beat the polar bear, as well.
+Dialogue: 10,0:14:53.91,0:14:55.79,Default,natsu,0,0,0,,You did it?!
+Dialogue: 10,0:14:55.79,0:14:57.66,Default,sakura,0,0,0,,She beat the strongest bear
+Dialogue: 10,0:14:57.66,0:14:59.92,Default,,0,0,0,,and we all assumed it was over.
+Dialogue: 10,0:14:59.92,0:15:02.67,Default,,0,0,0,,But there was still more to come.
+Dialogue: 10,0:15:02.67,0:15:04.75,Default,,0,0,0,,About a month later...
+Dialogue: 10,0:15:05.80,0:15:08.84,Default,botan,0,0,0,,I read my cell phone bill and fell to pieces.
+Dialogue: 10,0:15:09.34,0:15:12.05,Default,natsu,0,0,0,,It's because you used your cell phone so much overseas!
+Dialogue: 10,0:15:12.76,0:15:15.47,Default,botan,0,0,0,,It seems it wasn't bears I should have been fighting.
+Dialogue: 10,0:15:15.47,0:15:17.02,Default,,0,0,0,,It was the system!
+Dialogue: 10,0:15:18.35,0:15:20.44,Default,botan,0,0,0,,The system known as rate structure!
+Dialogue: 10,0:15:20.44,0:15:22.85,Default,natsu,0,0,0,,Just fix your rate plan and your lifestyle!
+Dialogue: 10,0:15:24.61,0:15:27.03,Default,claire,0,0,0,,There were lots of others besides the bears.
+Dialogue: 10,0:15:27.48,0:15:30.78,Default,claire,0,0,0,,She beat a great white shark in the ocean near Japan,
+Dialogue: 10,0:15:30.78,0:15:33.20,Default,,0,0,0,,beat an elephant in Africa,
+Dialogue: 10,0:15:33.20,0:15:36.41,Default,,0,0,0,,played with a squirrel at Tsurugaoka Hachiman Shrine,
+Dialogue: 10,0:15:36.41,0:15:38.37,Default,,0,0,0,,beat a cobra in India...
+Dialogue: 10,0:15:38.79,0:15:40.75,Default,natsu,0,0,0,,I think a Kamakura vacation memory got
+Dialogue: 10,0:15:40.75,0:15:42.46,Default,,0,0,0,,mixed up in there somewhere.
+Dialogue: 10,0:15:43.17,0:15:46.34,Default,sakura,0,0,0,,She also beat the Demon King with just the
+Dialogue: 10,0:15:46.34,0:15:48.17,Default,,0,0,0,,Hero and no orbs of light!
+Dialogue: 10,0:15:48.17,0:15:51.63,Default,sakura,0,0,0,,And she beat the hardest final boss without taking any damage.
+Dialogue: 10,0:15:51.63,0:15:53.64,Default,sakura,0,0,0,,There's just no end to her heroic exploits.
+Dialogue: 10,0:15:53.64,0:15:56.72,Default,natsu,0,0,0,,Those last two were just challenge run stories!
+Dialogue: 10,0:15:56.72,0:15:58.77,Default,,0,0,0,,That's how you end up with game brain!
+Dialogue: 10,0:15:58.77,0:16:00.93,Default,sakura,0,0,0,,The point that I want to instill
+Dialogue: 10,0:16:00.93,0:16:03.27,Default,,0,0,0,,in you first-years as club president is that
+Dialogue: 10,0:16:03.27,0:16:07.57,Default,,0,0,0,,Botan can only do these things because she received special training.
+Dialogue: 10,0:16:07.57,0:16:10.28,Default,,0,0,0,,Ordinary people shouldn't try to mimic her!
+Dialogue: 10,0:16:10.28,0:16:11.44,Default,karin,0,0,0,,Okay.
+Dialogue: 10,0:16:11.44,0:16:14.41,Default,natsu,0,0,0,,{\i1}I've never heard a more unnecessary warning in my life.
+Dialogue: 10,0:16:14.41,0:16:15.45,Default,botan,0,0,0,,That's right!
+Dialogue: 10,0:16:15.45,0:16:17.66,Default,,0,0,0,,Now that we have new club members,
+Dialogue: 10,0:16:17.66,0:16:20.75,Default,,0,0,0,,why don't you come fight bears with me for real?
+Dialogue: 10,0:16:22.62,0:16:25.54,Default,sakura,0,0,0,,We're going to that new crepe stand today.
+Dialogue: 10,0:16:26.42,0:16:27.46,Default,ara,0,0,0,,Let it go.
+Dialogue: 10,0:16:30.80,0:16:35.34,Default,sakura,0,0,0,,Umm... I was sure it was in this area...
+Dialogue: 10,0:16:35.34,0:16:37.43,Default,natsu,0,0,0,,Oh, is that it there?
+Dialogue: 10,0:16:43.56,0:16:44.56,Default,botan,0,0,0,,A bear!
+Dialogue: 10,0:16:44.56,0:16:45.81,Default,sakura,0,0,0,,Stop it.
+Dialogue: 10,0:16:50.32,0:16:52.07,Default,sakura,0,0,0,,Sorry for the wait!
+Dialogue: 10,0:16:53.03,0:16:56.61,Default,karin,0,0,0,,Sakura-senpai, your crepe is so big!
+Dialogue: 10,0:16:56.61,0:16:58.37,Default,botan,0,0,0,,Can you really finish all that?
+Dialogue: 10,0:16:59.53,0:17:01.20,Default,sakura,0,0,0,,Eh? Where's Natsuki-chan?
+Dialogue: 10,0:17:01.20,0:17:03.87,Default,claire,0,0,0,,I believe she went to the powder room.
+Dialogue: 10,0:17:27.02,0:17:29.23,Default,botan,0,0,0,,What's wrong? That was a strange noise.
+Dialogue: 10,0:17:30.90,0:17:32.36,Default,karin,0,0,0,,The truth is...
+Dialogue: 10,0:17:32.65,0:17:36.15,Default,,0,0,0,,at lunch, I went to the school store with Nat-chan...
+Dialogue: 10,0:17:37.11,0:17:39.66,Default,karin,0,0,0,,But they were sold out of erasers.
+Dialogue: 10,0:17:40.12,0:17:43.24,Default,sakura,0,0,0,,The school store can sell out of erasers?
+Dialogue: 10,0:17:43.24,0:17:44.50,Default,karin,0,0,0,,Yes...
+Dialogue: 10,0:17:44.50,0:17:46.62,Default,natsu,0,0,0,,Well, they actually did have some.
+Dialogue: 10,0:17:46.62,0:17:47.92,Default,natsu,0,0,0,,A whole display of them.
+Dialogue: 10,0:17:47.92,0:17:48.63,Default,sakura,0,0,0,,Huh?
+Dialogue: 10,0:17:48.63,0:17:53.13,Default,natsu,0,0,0,,But Karin didn't want one unless it was in a pink case.
+Dialogue: 10,0:17:54.51,0:17:57.38,Default,karin,0,0,0,,I couldn't erase at all during my afternoon classes.
+Dialogue: 10,0:17:57.38,0:17:59.05,Default,natsu,0,0,0,,Just compromise and buy one!
+Dialogue: 10,0:17:59.39,0:18:01.30,Default,claire,0,0,0,,That's tough.
+Dialogue: 10,0:18:02.56,0:18:06.10,Default,,0,0,0,,Let's go buy you a stationery store later.
+Dialogue: 10,0:18:08.35,0:18:09.85,Default,natsu,0,0,0,,Buy a store?!
+Dialogue: 10,0:18:15.11,0:18:16.78,Default,sakura,0,0,0,,Well, it can't be helped.
+Dialogue: 10,0:18:16.78,0:18:19.70,Default,,0,0,0,,Claire-chan is the daughter of the Kokonoe Corporation, after all.
+Dialogue: 10,0:18:19.70,0:18:23.24,Default,,0,0,0,,Her money sense is a little \Ndifferent from a normal person's.
+Dialogue: 10,0:18:23.24,0:18:25.20,Default,natsu,0,0,0,,That's more than "a little" different!
+Dialogue: 10,0:18:25.20,0:18:26.91,Default,natsu,0,0,0,,Buying a store at the drop of a hat
+Dialogue: 10,0:18:26.91,0:18:29.71,Default,,0,0,0,,is like "real-life sugoroku with actual \Ntrains" level of money sense!
+Dialogue: 10,0:18:29.71,0:18:31.08,Default,aza,0,0,0,,I just bought the whole store!
+Dialogue: 10,0:18:31.08,0:18:34.09,Default,sakura,0,0,0,,Claire-chan doesn't feel any sense of loss
+Dialogue: 10,0:18:34.09,0:18:35.55,Default,,0,0,0,,when she spends money.
+Dialogue: 10,0:18:36.46,0:18:37.92,Default,natsu,0,0,0,,What are you talking about?
+Dialogue: 10,0:18:38.76,0:18:42.30,Default,sakura,0,0,0,,You know how when we turn on the faucet,
+Dialogue: 10,0:18:42.30,0:18:44.10,Default,,0,0,0,,as much water comes out as we want?
+Dialogue: 10,0:18:44.10,0:18:45.31,Default,natsu,0,0,0,,Yeah...
+Dialogue: 10,0:18:45.60,0:18:48.06,Default,sakura,0,0,0,,That's how money is for her.
+Dialogue: 10,0:18:48.69,0:18:51.19,Default,natsu,0,0,0,,So she literally goes through money like water?
+Dialogue: 10,0:18:51.69,0:18:54.69,Default,sakura,0,0,0,,Her speech and behavior have always been extravagant.
+Dialogue: 10,0:18:55.57,0:18:58.44,Default,sakura,0,0,0,,She can summon a helicopter with the slightest gesture.
+Dialogue: 10,0:18:58.44,0:19:01.11,Default,sakura,0,0,0,,Or reserve an entire family restaurant.
+Dialogue: 10,0:19:05.95,0:19:08.50,Default,claire,0,0,0,,My. Is that so?
+Dialogue: 10,0:19:10.46,0:19:13.08,Default,natsu,0,0,0,,Why did you get so many frames just now?!
+Dialogue: 10,0:19:13.08,0:19:15.30,Default,claire,0,0,0,,What? I wasn't even thinking about it.
+Dialogue: 10,0:19:15.30,0:19:17.42,Default,natsu,0,0,0,,Try to avoid excessive movement!
+Dialogue: 10,0:19:17.42,0:19:20.18,Default,,0,0,0,,This show is limited to *** frames!
+Dialogue: 10,0:19:21.34,0:19:23.72,Default,sakura,0,0,0,,This is what you call a true rich girl.
+Dialogue: 10,0:19:23.72,0:19:25.35,Default,natsu,0,0,0,,President, you saw right through it!
+Dialogue: 10,0:19:26.22,0:19:28.27,Default,natsu,0,0,0,,What? Everything's gone white...
+Dialogue: 10,0:19:28.27,0:19:29.52,Default,botan,0,0,0,,I guess the effects are showing.
+Dialogue: 10,0:19:29.52,0:19:31.31,Default,aza,0,0,0,,The seal is white, too.
+Dialogue: 10,0:19:31.69,0:19:33.61,Default,sakura,0,0,0,,These are the storyboards!
+Dialogue: 10,0:19:33.98,0:19:35.90,Default,aza,0,0,0,,This is the linework!
+Dialogue: 10,0:19:37.82,0:19:41.57,Default,botan,0,0,0,,But Claire's really living life on easy mode, huh?
+Dialogue: 10,0:19:41.57,0:19:44.78,Default,botan,0,0,0,,You've always been able to get whatever you wanted, right?
+Dialogue: 10,0:19:46.16,0:19:49.58,Default,claire,0,0,0,,Actually, it's more that by the \Ntime I realize I want something,
+Dialogue: 10,0:19:49.58,0:19:51.79,Default,,0,0,0,,I already have it.
+Dialogue: 10,0:19:51.79,0:19:55.71,Default,natsu,0,0,0,,She's on full auto mode! This is just like a crap game!
+Dialogue: 10,0:19:56.59,0:19:58.00,Default,sakura,0,0,0,,Hey, Natsuki-chan!
+Dialogue: 10,0:19:58.00,0:20:00.34,Default,,0,0,0,,Be careful about making statements that could be construed
+Dialogue: 10,0:20:00.34,0:20:01.84,Default,,0,0,0,,as calling movie-heavy games crap!
+Dialogue: 10,0:20:01.84,0:20:03.93,Default,natsuki,0,0,0,,I didn't say anything like that!
+Dialogue: 10,0:20:03.93,0:20:06.10,Default,,0,0,0,,Why are you being so oversensitive?!
+Dialogue: 10,0:20:06.10,0:20:07.72,Default,aza,0,0,0,,Missile seal!
+Dialogue: 10,0:20:08.10,0:20:11.68,Default,sakura,0,0,0,,Setting that aside, you may be wondering why
+Dialogue: 10,0:20:11.68,0:20:14.44,Default,,0,0,0,,such a rich girl would attend a school for normal people.
+Dialogue: 10,0:20:14.69,0:20:17.40,Default,sakura,0,0,0,,It's because Claire-chan has always longed for
+Dialogue: 10,0:20:17.40,0:20:18.90,Default,,0,0,0,,a normal high school life.
+Dialogue: 10,0:20:19.40,0:20:21.95,Default,natsu,0,0,0,,{\i1}I don't know if that's possible in a club like this.
+Dialogue: 10,0:20:22.36,0:20:25.32,Default,claire,0,0,0,,It was my dream to walk home from school and attend
+Dialogue: 10,0:20:25.32,0:20:27.16,Default,,0,0,0,,balls with my friends like a normal person.
+Dialogue: 10,0:20:27.16,0:20:29.29,Default,natsu,0,0,0,,In what dimension is that normal?
+Dialogue: 10,0:20:29.29,0:20:31.75,Default,claire,0,0,0,,What? Was I wrong?
+Dialogue: 10,0:20:31.75,0:20:33.58,Default,sakura,0,0,0,,Well, that's the shape of it.
+Dialogue: 10,0:20:33.58,0:20:35.42,Default,,0,0,0,,Natsuki-chan, Karin-chan.
+Dialogue: 10,0:20:35.79,0:20:38.29,Default,sakura,0,0,0,,You're both senpai when it comes to being commoners,
+Dialogue: 10,0:20:38.29,0:20:39.80,Default,,0,0,0,,so show her the ropes.
+Dialogue: 10,0:20:39.80,0:20:41.67,Default,karin,0,0,0,,Okay! Just leave it to me!
+Dialogue: 10,0:20:42.01,0:20:44.34,Default,karin,0,0,0,,Claire-senpai, did you know about this?
+Dialogue: 10,0:20:44.34,0:20:46.59,Default,,0,0,0,,The most delicious part of the ice cream
+Dialogue: 10,0:20:46.59,0:20:48.26,Default,,0,0,0,,is not the ice cream itself,
+Dialogue: 10,0:20:48.26,0:20:50.22,Default,,0,0,0,,but the part that gets stuck to the lid!
+Dialogue: 10,0:20:50.52,0:20:52.14,Default,claire,0,0,0,,Oh, really?
+Dialogue: 10,0:20:52.14,0:20:54.60,Default,natsu,0,0,0,,That's not a "commoner" thought, it's a child's thought!
+Dialogue: 10,0:20:56.98,0:20:58.52,Default,claire,0,0,0,,Ice cream...
+Dialogue: 10,0:20:59.77,0:21:00.86,Default,,0,0,0,,comes with lids?
+Dialogue: 10,0:21:02.11,0:21:03.86,Default,sakura,0,0,0,,Okay! Today...
+Dialogue: 10,0:21:04.32,0:21:06.45,Default,sakura,0,0,0,,We will buy ice cream from the convenience store!
+Dialogue: 10,0:22:37.54,0:22:40.17,Default,,0,0,0,,Ice cream in a cup really is the best.
+Dialogue: 10,0:22:40.17,0:22:41.88,Default,,0,0,0,,This is the way to go.
+Dialogue: 10,0:22:42.71,0:22:44.67,Default,natsu,0,0,0,,Buy ice cream in a cup!
+Dialogue: 10,0:22:46.21,0:22:47.59,Default,,0,0,0,,Natsuki here!
+Dialogue: 10,0:22:47.59,0:22:50.26,Default,,0,0,0,,I heard giant anteaters give birth standing up.
+Dialogue: 10,0:22:50.68,0:22:52.05,Default,,0,0,0,,Spawning standing up?!
+Dialogue: 10,0:22:52.26,0:22:57.23,Default,,0,0,0,,Next time, Record 5: The Cuckoo \NIsn't Singing. It Appears to Be Dead.
+Dialogue: 10,0:22:57.23,0:22:59.52,Default,,0,0,0,,And more!
+Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,== Signs ===============================
+Comment: 0,0:00:36.43,0:00:38.93,Sign,sign,0,0,0,,# Wrestling Club
+Dialogue: 0,0:00:36.43,0:00:38.93,Sign,,0,0,0,,{\pos(226,356)}Wrestling Club
+Comment: 0,0:00:38.93,0:00:42.27,Sign,sign,0,0,0,,# Let's ride horses!
+Dialogue: 0,0:00:38.93,0:00:42.27,Sign,,0,0,0,,{\fad(1,225)\pos(762,558)}Let's ride horses!
+Comment: 0,0:02:45.26,0:02:47.52,Sign,sign,0,0,0,,# Fire Prevention Supervisor: Now Recruiting
+Dialogue: 0,0:02:45.26,0:02:47.52,Sign,,0,0,0,,{\pos(500,236)}Fire Prevention Supervisor: \NNow Recruiting
+Comment: 0,0:02:45.26,0:02:47.52,Sign,sign,0,0,0,,# Going Home Club
+Dialogue: 0,0:02:45.26,0:02:47.52,Sign,,0,0,0,,{\pos(640,458)}Going Home Club
+Comment: 0,0:02:57.40,0:03:02.57,OP Title,sign,0,0,0,,# Chronicles of the Going Home Club
+Dialogue: 0,0:02:57.40,0:03:02.57,OP Title,,0,0,0,,Chronicles of the Going Home Club
+Comment: 0,0:04:35.25,0:04:40.25,Record,sign,0,0,0,,# Record 1: Going Home Club Applicants
+Dialogue: 0,0:04:35.25,0:04:40.25,Record,,0,0,0,,Record 1
+Dialogue: 0,0:04:35.25,0:04:40.25,Segment Title,,0,0,0,,Going Home Club Applicants
+Comment: 0,0:05:07.66,0:05:10.95,Sign,sign,0,0,0,,# Sixteenth heir to the ancient Hagizuki-ryuu martial arts style
+Dialogue: 0,0:05:07.66,0:05:10.95,Sign,,0,0,0,,{\fad(502,847)}Sixteenth heir to the ancient \NHagizuki-ryuu martial arts style
+Comment: 0,0:05:18.58,0:05:22.13,Sign,sign,0,0,0,,# Daughter of the head of the Kokonoe Corporation
+Dialogue: 0,0:05:18.58,0:05:22.13,Sign,,0,0,0,,{\fad(250,1225)}Daughter of the head of the Kokonoe Corporation
+Comment: 0,0:05:39.65,0:05:43.53,Sign,sign,0,0,0,,# Name: Doumyouji Sakura
+Dialogue: 0,0:05:39.65,0:05:43.53,Sign,,0,0,0,,{\fad(462,1)\pos(198,168)}Name:  Doumyouji Sakura \NBlood Type:                     A \NSign:                       Taurus \NHeight:                     163cm\NWeight:                    Secret
+Comment: 0,0:05:43.53,0:05:45.28,Sign,sign,0,0,0,,# Normal Person
+Dialogue: 0,0:05:43.53,0:05:45.28,Sign,,0,0,0,,{\pos(628,334)}Normal                                         Person
+Comment: 0,0:06:41.79,0:06:46.80,Record,sign,0,0,0,,# Record 2: Life is Short; Go Home, Young Lady
+Dialogue: 0,0:06:41.79,0:06:46.80,Record,,0,0,0,,Record 2
+Dialogue: 0,0:06:41.79,0:06:46.80,Segment Title,,0,0,0,,{\fs54\pos(636.981,529.5)}Life is Short; Go Home, Young Lady
+Comment: 0,0:07:46.52,0:07:47.52,Sign,sign,0,0,0,,# Blush
+Dialogue: 0,0:07:46.52,0:07:47.52,Sign,,0,0,0,,{\pos(946,412)}Blush
+Comment: 0,0:08:09.92,0:08:14.43,Sign,sign,0,0,0,,# Stand Up!
+Dialogue: 0,0:08:09.92,0:08:14.43,Sign,,0,0,0,,{\pos(360,242)}Stand Up!\N{\c&H574A8E&}Going Home Club\N{\c&H33323A&}Now Recruiting!
+Comment: 0,0:08:47.83,0:08:50.34,Sign,sign,0,0,0,,# Brush seal
+Dialogue: 0,0:08:47.83,0:08:50.34,Sign,,0,0,0,,{\pos(930,400)}Also known \Nas brush seal
+Comment: 0,0:08:50.34,0:08:52.59,Sign,sign,0,0,0,,# Fire Prevention Supervisor: Seal
+Dialogue: 0,0:08:50.34,0:08:52.59,Sign,,0,0,0,,{\pos(614,264)}Fire Prevention Supervisor: Seal\N\N{\b1\fs42}Going Home Club
+Comment: 0,0:09:46.27,0:09:53.90,Sign,sign,0,0,0,,# Based on the creator's personal experience.
+Dialogue: 0,0:09:46.27,0:09:53.90,Sign,,0,0,0,,{\fad(462,0)\an5\pos(640,687)}*Based on the creator's personal experience.
+Comment: 0,0:11:08.02,0:11:13.02,Eyecatch Title,sign,0,0,0,,# Eyecatch 1: Chronicles of the Going Home Club
+Dialogue: 0,0:11:08.02,0:11:13.02,Eyecatch Title,,0,0,0,,Chronicles of the Going Home Club
+Comment: 0,0:11:08.02,0:11:13.02,Sign,sign,0,0,0,,# Going Home Club Photo Gallery
+Dialogue: 0,0:11:08.02,0:11:13.02,Sign,,0,0,0,,{\pos(875.472,28.5)}Going Home Club Photo Gallery
+Comment: 0,0:11:08.02,0:11:13.02,Sign,sign,0,0,0,,# We took this photo of the Going Home Club in action.
+Dialogue: 0,0:11:08.02,0:11:13.02,Sign,,0,0,0,,We took this photo of the \NGoing Home Club in action. \NWho provides whose voice?
+Comment: 0,0:11:13.02,0:11:18.03,Eyecatch Title,sign,0,0,0,,# Eyecatch 2: Chronicles of the Going Home Club
+Dialogue: 0,0:11:13.02,0:11:18.03,Eyecatch Title,,0,0,0,,Chronicles of the Going Home Club
+Comment: 0,0:11:44.47,0:11:49.47,Record,sign,0,0,0,,# Record 3: Beware of Hagizuki-ryuu Practitioners
+Dialogue: 0,0:11:44.47,0:11:49.47,Record,,0,0,0,,Record 3
+Dialogue: 0,0:11:44.47,0:11:49.47,Segment Title,,0,0,0,,{\fs49.5}Beware of Hagizuki-ryuu Practitioners
+Comment: 0,0:12:45.24,0:12:47.95,Sign,sign,0,0,0,,# July 28th
+Dialogue: 0,0:12:45.24,0:12:47.95,Sign,,0,0,0,,July 28th
+Comment: 0,0:14:12.99,0:14:21.00,Sign,sign,0,0,0,,Subject: America Now
+Dialogue: 0,0:14:12.99,0:14:21.00,Sign,,0,0,0,,From: Oohagi Botan\NSubject: America Now
+Comment: 0,0:14:48.24,0:14:52.78,Sign,sign,0,0,0,,# BOOM
+Dialogue: 0,0:14:48.24,0:14:52.78,Sign,,0,0,0,,{\pos(638,38)}BOOM
+Comment: 0,0:15:18.35,0:15:23.31,Sign,sign,0,0,0,,# Rate structure
+Dialogue: 0,0:15:18.35,0:15:23.31,Sign,,0,0,0,,{\pos(226,344)}Rate structure
+Comment: 0,0:15:43.92,0:15:48.05,Sign,sign,0,0,0,,# You beat the Demon King!
+Dialogue: 0,0:15:43.92,0:15:48.05,Sign,,0,0,0,,{\pos(286,608)}You beat the Demon King!
+Comment: 0,0:17:32.36,0:17:36.61,Sign,sign,0,0,0,,# School Store
+Dialogue: 0,0:17:32.36,0:17:36.61,Sign,,0,0,0,,{\pos(836,150)}School Store
+Comment: 0,0:17:46.62,0:17:48.63,Sign,sign,0,0,0,,# Nothing Comes Together As It Should
+Dialogue: 0,0:17:46.62,0:17:48.63,Sign,,0,0,0,,{\bord3.75}Nothing Comes Together As It Should
+Comment: 0,0:18:09.85,0:18:14.86,Record,sign,0,0,0,,Record 4: Extravagant Youth: Priceless
+Dialogue: 0,0:18:09.85,0:18:14.86,Record,,0,0,0,,Record 4
+Dialogue: 0,0:18:09.85,0:18:14.86,Segment Title,,0,0,0,,Extravagant Youth: Priceless
+Comment: 0,0:22:37.04,0:22:41.04,Sign,sign,0,0,0,,# Convenience Store
+Dialogue: 0,0:22:37.04,0:22:41.04,Sign,,0,0,0,,{\pos(914,190)}Convenience Store
+Comment: 0,0:22:45.05,0:22:48.51,Preview,sign,0,0,0,,# Preview
+Dialogue: 0,0:22:45.05,0:22:48.51,Preview,,0,0,0,,{\fad(0,392)\pos(160,13.5)}Preview
