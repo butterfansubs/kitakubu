@@ -5,12 +5,15 @@ WrapStyle: 0
 PlayResX: 1280
 PlayResY: 720
 ScaledBorderAndShadow: yes
-Video File: ../V1_Ep01.mkv
 YCbCr Matrix: TV.709
 Aegisub Video Aspect Ratio: c1.777778
 Original Script: Femme
 
 [Aegisub Project Garbage]
+Audio File: [Femme] Kitakubu Katsudou Kiroku - 01 [BD 720p Hi444PP AAC][6754BB4C].mkv
+Video File: [Femme] Kitakubu Katsudou Kiroku - 01 [BD 720p Hi444PP AAC][6754BB4C].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
